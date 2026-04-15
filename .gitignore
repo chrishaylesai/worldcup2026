@@ -8,5 +8,6 @@ AGENTS.md
 GEMINI.md
 
 # PYTHON
-scripts/__pycache__
-scripts/__pycache__/*
+__pycache__/
+*.py[cod]
+*$py.class

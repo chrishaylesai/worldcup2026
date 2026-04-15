@@ -1,0 +1,8 @@
+# AGENTS
+.agents/
+.claude/
+.codex/
+.gemini/
+CLAUDE.md
+AGENTS.md
+GEMINI.md

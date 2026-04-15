@@ -1,0 +1,435 @@
+﻿date,competition,home_team,score,home_score,away_score,away_team,venue,result
+2023-09-07,2026 FIFA World Cup qualification,Argentina,1-0,1,0,Ecuador,"Estadio Monumental, Buenos Aires",Argentina
+2023-09-07,2026 FIFA World Cup qualification,Colombia,1-0,1,0,Venezuela,"Estadio Metropolitano, Barranquilla",Colombia
+2023-09-07,2026 FIFA World Cup qualification,Paraguay,0-0,0,0,Peru,"Estadio Antonio Aranda, Ciudad del Este",Draw
+2023-09-08,2026 FIFA World Cup qualification,Brazil,5-1,5,1,Bolivia,"Estadio Olimpico do Para, Belem",Brazil
+2023-09-08,2026 FIFA World Cup qualification,Uruguay,3-1,3,1,Chile,"Montevideo, Uruguay",Uruguay
+2023-09-12,2026 FIFA World Cup qualification,Bolivia,0-3,0,3,Argentina,"Estadio Hernando Siles, La Paz",Argentina
+2023-09-12,2026 FIFA World Cup qualification,Chile,0-0,0,0,Colombia,"Estadio Monumental David Arellano, Santiago",Draw
+2023-09-12,2026 FIFA World Cup qualification,Ecuador,2-1,2,1,Uruguay,"Estadio Rodrigo Paz Delgado, Quito",Ecuador
+2023-09-12,2026 FIFA World Cup qualification,Peru,0-1,0,1,Brazil,"Estadio Nacional, Lima",Brazil
+2023-09-12,2026 FIFA World Cup qualification,Venezuela,1-0,1,0,Paraguay,"Estadio Monumental, Maturin",Venezuela
+2023-10-12,2026 FIFA World Cup qualification,Argentina,1-0,1,0,Paraguay,"Estadio Monumental, Buenos Aires",Argentina
+2023-10-12,2026 FIFA World Cup qualification,Bolivia,1-2,1,2,Ecuador,"Estadio Hernando Siles, La Paz",Ecuador
+2023-10-12,2026 FIFA World Cup qualification,Brazil,1-1,1,1,Venezuela,"Arena Pantanal, Cuiaba",Draw
+2023-10-12,2026 FIFA World Cup qualification,Colombia,2-2,2,2,Uruguay,"Estadio Metropolitano, Barranquilla",Draw
+2023-10-15,2026 FIFA World Cup qualification,Uruguay,0-0,0,0,Ecuador,"Estadio Centenario, Montevideo",Draw
+2023-10-17,2026 FIFA World Cup Qualification,Peru,0-2,0,2,Argentina,"Estadio Nacional, Lima",Argentina
+2023-10-17,2026 FIFA World Cup qualification,Ecuador,0-0,0,0,Colombia,"Estadio Rodrigo Paz Delgado, Quito",Draw
+2023-10-17,2026 FIFA World Cup qualification,Paraguay,1-0,1,0,Bolivia,"Estadio Defensores del Chaco, Asuncion",Paraguay
+2023-10-17,2026 FIFA World Cup qualification,Uruguay,2-0,2,0,Brazil,"Montevideo, Uruguay",Uruguay
+2023-11-15,2026 FIFA World Cup qualification,DR Congo,2-0,2,0,Mauritania,"Kinshasa, DR Congo",DR Congo
+2023-11-16,2026 FIFA World Cup qualification,Algeria,3-1,3,1,Somalia,"Algiers, Algeria",Algeria
+2023-11-16,2027 FIFA World Cup qualification,Japan,5-0,5,0,Myanmar,"Suita, Japan",Japan
+2023-11-16,2026 FIFA World Cup qualification,South Korea,5-0,5,0,Singapore,"Seoul, South Korea",South Korea
+2023-11-16,2026 FIFA World Cup Qualification,Argentina,0-2,0,2,Uruguay,"La Bombonera, Buenos Aires",Uruguay
+2023-11-16,2026 FIFA World Cup qualification,Chile,0-0,0,0,Paraguay,"Estadio Monumental David Arellano, Santiago",Draw
+2023-11-16,2026 FIFA World Cup qualification,Colombia,2-1,2,1,Brazil,"Estadio Metropolitano, Barranquilla",Colombia
+2023-11-16,2026 FIFA World Cup qualification,Egypt,6-0,6,0,Djibouti,"Cairo, Egypt",Egypt
+2023-11-16,2026 FIFA World Cup qualification,Iraq,5-1,5,1,Indonesia,"Basra, Iraq",Iraq
+2023-11-16,2026 FIFA World Cup qualification,Venezuela,0-0,0,0,Ecuador,"Estadio Monumental, Maturin",Draw
+2023-11-16,2026 FIFA World Cup qualification,Iran,4-0,4,0,Hong Kong,"Azadi Stadium, Tehran",Iran
+2023-11-16,2026 FIFA World Cup qualification,Saudi Arabia,4-0,4,0,Pakistan,"Hofuf, Saudi Arabia",Saudi Arabia
+2023-11-16,2027 FIFA World Cup qualification,Australia,7-0,7,0,Bangladesh,"Melbourne, Australia",Australia
+2023-11-16,2028 FIFA World Cup qualification,Turkmenistan,1-3,1,3,Uzbekistan,"Ashgabat, Turkmenistan",Uzbekistan
+2023-11-16,2026 FIFA World Cup qualification,Cape Verde,0-0,0,0,Angola,"Praia, Cape Verde",Draw
+2023-11-16,2026 FIFA World Cup qualification,Tajikistan,1-1,1,1,Jordan,"Dushanbe, Tajikistan",Draw
+2023-11-17,2026 FIFA World Cup qualification,Ivory Coast,9-0,9,0,Seychelles,"Abidjan, Ivory Coast",Ivory Coast
+2023-11-17,2026 FIFA World Cup qualification,Tunisia,4-0,4,0,Sao Tome and Principe,"Tunis, Tunisia",Tunisia
+2023-11-17,2026 FIFA World Cup qualification,Ghana,1-0,1,0,Madagascar,"Kumasi, Ghana",Ghana
+2023-11-18,2026 FIFA World Cup qualification,South Africa,2-1,2,1,Benin,"Durban, South Africa",South Africa
+2023-11-18,2026 FIFA World Cup qualification,Senegal,4-0,4,0,South Sudan,"Diamniadio, Senegal",Senegal
+2023-11-19,2026 FIFA World Cup qualification,Mozambique,0-2,0,2,Algeria,"Maputo, Mozambique",Algeria
+2023-11-19,2026 FIFA World Cup qualification,Sierra Leone,0-2,0,2,Egypt,"Paynesville, Liberia",Egypt
+2023-11-19,2026 FIFA World Cup qualification,Sudan,1-0,1,0,DR Congo,"Benina, Libya",Sudan
+2023-11-20,2026 FIFA World Cup qualification,Gambia,0-2,0,2,Ivory Coast,"Dar es Salaam, Tanzania",Ivory Coast
+2023-11-21,2027 FIFA World Cup qualification,Syria,0-5,0,5,Japan,"Jeddah, Saudi Arabia",Japan
+2023-11-21,2026 FIFA World Cup qualification,China,0-3,0,3,South Korea,"Shenzhen, China",South Korea
+2023-11-21,2026 FIFA World Cup qualification,Brazil,0-1,0,1,Argentina,"Maracana Stadium, Rio de Janeiro",Argentina
+2023-11-21,2026 FIFA World Cup qualification,Ecuador,1-0,1,0,Chile,"Estadio Rodrigo Paz Delgado, Quito",Ecuador
+2023-11-21,2026 FIFA World Cup qualification,Malawi,0-1,0,1,Tunisia,"Lilongwe, Malawi",Tunisia
+2023-11-21,2026 FIFA World Cup qualification,Paraguay,0-1,0,1,Colombia,"Estadio Defensores del Chaco, Asuncion",Colombia
+2023-11-21,2026 FIFA World Cup qualification,Rwanda,2-0,2,0,South Africa,"Butare, Rwanda",Rwanda
+2023-11-21,2026 FIFA World Cup qualification,Vietnam,0-1,0,1,Iraq,"Hanoi, Vietnam",Iraq
+2023-11-21,2026 FIFA World Cup qualification,Uzbekistan,2-2,2,2,Iran,"Milliy Stadium, Tashkent",Draw
+2023-11-21,2026 FIFA World Cup qualification,Jordan,0-2,0,2,Saudi Arabia,"Amman, Jordan",Saudi Arabia
+2023-11-21,2026 FIFA World Cup qualification,Palestine,0-1,0,1,Australia,"Kuwait City, Kuwait",Australia
+2023-11-21,2026 FIFA World Cup qualification,Comoros,1-0,1,0,Ghana,"Moroni, Comoros",Comoros
+2023-11-21,2026 FIFA World Cup qualification,Eswatini,0-2,0,2,Cape Verde,"Mbombela, South Africa",Cape Verde
+2023-11-21,2026 FIFA World Cup qualification,Tanzania,0-2,0,2,Morocco,"Dar es Salaam, Tanzania",Morocco
+2023-11-21,2026 FIFA World Cup qualification,Togo,0-0,0,0,Senegal,"Lome, Togo",Draw
+2023-11-21,2026 FIFA World Cup qualification,Uruguay,3-0,3,0,Bolivia,"Montevideo, Uruguay",Uruguay
+2024-03-21,2027 FIFA World Cup qualification,Qatar,3-0,3,0,Kuwait,"Al Rayyan, Qatar",Qatar
+2024-03-21,2028 FIFA World Cup qualification,South Korea,1-1,1,1,Thailand,"Seoul, South Korea",Draw
+2024-03-21,2029 FIFA World Cup qualification,Iraq,1-0,1,0,Philippines,"Basra, Iraq",Iraq
+2024-03-21,2030 FIFA World Cup qualification,Iran,5-0,5,0,Turkmenistan,"Azadi Stadium, Tehran",Iran
+2024-03-21,2031 FIFA World Cup qualification,Hong Kong,0-2,0,2,Uzbekistan,"Mong Kok, Hong Kong",Uzbekistan
+2024-03-21,2032 FIFA World Cup qualification,Australia,2-0,2,0,Lebanon,"Sydney, Australia",Australia
+2024-03-21,2033 FIFA World Cup qualification,Japan,1-0,1,0,North Korea,"Tokyo, Japan",Japan
+2024-03-21,2034 FIFA World Cup qualification,Saudi Arabia,1-0,1,0,Tajikistan,"Riyadh, Saudi Arabia",Saudi Arabia
+2024-03-21,2035 FIFA World Cup qualification,Pakistan,0-3,0,3,Jordan,"Islamabad, Pakistan",Jordan
+2024-03-26,2036 FIFA World Cup qualification,Kuwait,1-2,1,2,Qatar,"Farwaniya, Kuwait",Qatar
+2024-03-26,2037 FIFA World Cup qualification,Thailand,0-3,0,3,South Korea,"Bangkok, Thailand",South Korea
+2024-03-26,2038 FIFA World Cup qualification,Philippines,0-5,0,5,Iraq,"Manila, Philippines",Iraq
+2024-03-26,2039 FIFA World Cup qualification,Turkmenistan,0-1,0,1,Iran,"Ashgabat Stadium, Ashgabat",Iran
+2024-03-26,2040 FIFA World Cup qualification,Uzbekistan,3-0,3,0,Hong Kong,"Tashkent, Uzbekistan",Uzbekistan
+2024-03-26,2041 FIFA World Cup qualification,Lebanon,0-5,0,5,Australia,"Canberra, Australia",Australia
+2024-03-26,2042 FIFA World Cup qualification,North Korea,0-3,0,3,Japan,"Kim Il Sung Stadium, Pyongyang ",Japan
+2024-03-26,2043 FIFA World Cup qualification,Tajikistan,1-1,1,1,Saudi Arabia,"Dushanbe, Tajikistan",Draw
+2024-03-26,2044 FIFA World Cup qualification,Jordan,7-0,7,0,Pakistan,"Amman, Jordan",Jordan
+2024-06-05,2045 FIFA World Cup qualification,Curacao,4-1,4,1,Barbados,"Willemstad, Curacao",Curacao
+2024-06-05,2046 FIFA World Cup qualification,Tunisia,1-0,1,0,Equatorial Guinea,"Tunis, Tunisia",Tunisia
+2024-06-06,2047 FIFA World Cup qualification,Senegal,1-1,1,1,DR Congo,"Diamniadio, Senegal",Draw
+2024-06-06,2048 FIFA World Cup qualification,Algeria,1-2,1,2,Guinea,"Algiers, Algeria",Guinea
+2024-06-06,2049 FIFA World Cup qualification,Afghanistan,0-0,0,0,Qatar,"Hofuf, Saudi Arabia",Draw
+2024-06-06,2050 FIFA World Cup qualification,Singapore,0-7,0,7,South Korea,"Kallang, Singapore",South Korea
+2024-06-06,2051 FIFA World Cup qualification,Egypt,2-1,2,1,Burkina Faso,"Cairo, Egypt",Egypt
+2024-06-06,2052 FIFA World Cup qualification,Haiti,2-1,2,1,Saint Lucia,"Wildey Turf, Wildey",Haiti
+2024-06-06,2053 FIFA World Cup qualification,Indonesia,0-2,0,2,Iraq,"Jakarta, Indonesia",Iraq
+2024-06-06,2054 FIFA World Cup qualification,Hong Kong,2-4,2,4,Iran,"Hong Kong Stadium, Hong Kong",Iran
+2024-06-06,2055 FIFA World Cup qualification,Uzbekistan,3-1,3,1,Turkmenistan,"Tashkent, Uzbekistan",Uzbekistan
+2024-06-06,2056 FIFA World Cup qualification,Bangladesh,0-2,0,2,Australia,"Dhaka, Bangladesh",Australia
+2024-06-06,2057 FIFA World Cup qualification,Mali,1-2,1,2,Ghana,"Bamako, Mali",Ghana
+2024-06-06,2026 FIFA World Cup qualification,Myanmar,0-5,0,5,Japan,"Yangon, Myanmar",Japan
+2024-06-06,2026 FIFA World Cup qualification,Pakistan,0-3,0,3,Saudi Arabia,"Islamabad, Pakistan",Saudi Arabia
+2024-06-06,2026 FIFA World Cup qualification,Panama,2-0,2,0,Guyana,"Panama City, Panama",Panama
+2024-06-06,2026 FIFA World Cup qualification,Jordan,3-0,3,0,Tajikistan,"Amman, Jordan",Jordan
+2024-06-07,2026 FIFA World Cup qualification,Ivory Coast,1-0,1,0,Gabon,"Korhogo, Ivory Coast",Ivory Coast
+2024-06-07,2026 FIFA World Cup qualification,Nigeria,1-1,1,1,South Africa,"Uyo, Nigeria",Draw
+2024-06-07,2026 FIFA World Cup qualification,Morocco,2-1,2,1,Zambia,"Agadir, Morocco",Morocco
+2024-06-08,2026 FIFA World Cup qualification,Aruba,0-2,0,2,Curacao,"Oranjestad, Aruba",Curacao
+2024-06-09,2026 FIFA World Cup qualification,DR Congo,1-0,1,0,Togo,"Kinshasa, DR Congo",DR Congo
+2024-06-09,2026 FIFA World Cup qualification,Barbados,1-3,1,3,Haiti,"Wildey Turf, Wildey",Haiti
+2024-06-09,2026 FIFA World Cup qualification,Namibia,0-0,0,0,Tunisia,"Johannesburg, South Africa",Draw
+2024-06-09,2026 FIFA World Cup qualification,Mauritania,0-1,0,1,Senegal,"Nouakchott, Mauritania",Senegal
+2024-06-09,2026 FIFA World Cup qualification,Montserrat,1-3,1,3,Panama,"Managua, Nicaragua",Panama
+2024-06-10,2026 FIFA World Cup qualification,Kenya,0-0,0,0,Ivory Coast,"Lilongwe, Malawi",Draw
+2024-06-10,2026 FIFA World Cup qualification,Uganda,1-2,1,2,Algeria,"Kampala, Uganda",Algeria
+2024-06-10,2026 FIFA World Cup qualification,Guinea-Bissau,1-1,1,1,Egypt,"Bissau, Guinea-Bissau",Draw
+2024-06-10,2026 FIFA World Cup qualification,Ghana,4-3,4,3,Central African Republic,"Kumasi, Ghana",Ghana
+2024-06-11,2027 FIFA World Cup qualification,Qatar,2-1,2,1,India,"Al Rayyan, Qatar",Qatar
+2024-06-11,2028 FIFA World Cup qualification,South Korea,1-0,1,0,China,"Seoul, South Korea",South Korea
+2024-06-11,2029 FIFA World Cup qualification,Iraq,3-1,3,1,Vietnam,"Basra, Iraq",Iraq
+2024-06-11,2030 FIFA World Cup qualification,South Africa,3-1,3,1,Zimbabwe,"Bloemfontein, South Africa",South Africa
+2024-06-11,2031 FIFA World Cup qualification,Iran,0-0,0,0,Uzbekistan,"Azadi Stadium, Tehran",Draw
+2024-06-11,2032 FIFA World Cup qualification,Australia,5-0,5,0,Palestine,"Perth, Australia",Australia
+2024-06-11,2033 FIFA World Cup qualification,Congo,0-6,0,6,Morocco,"Agadir, Morocco",Morocco
+2024-06-11,2034 FIFA World Cup qualification,Saudi Arabia,1-2,1,2,Jordan,"Riyadh, Saudi Arabia",Jordan
+2024-09-05,2035 FIFA World Cup qualification,South Korea,0-0,0,0,Palestine,"Seoul, South Korea",Draw
+2024-09-05,2036 FIFA World Cup qualification,Argentina,3-0,3,0,Chile,"Estadio Mas Monumental, Buenos Aires",Argentina
+2024-09-05,2037 FIFA World Cup qualification,Iraq,1-0,1,0,Oman,"Basra, Iraq",Iraq
+2024-09-05,2038 FIFA World Cup qualification,Iran,1-0,1,0,Kyrgyzstan,"Fooladshahr Stadium, Fooladshahr",Iran
+2024-09-05,2039 FIFA World Cup qualification,Uzbekistan,1-0,1,0,North Korea,"Tashkent, Uzbekistan",Uzbekistan
+2024-09-05,2040 FIFA World Cup qualification,Australia,0-1,0,1,Bahrain,"Gold Coast, Australia",Bahrain
+2024-09-05,2041 FIFA World Cup qualification,Qatar,1-3,1,3,United Arab Emirates,"Al Rayyan, Qatar",United Arab Emirates
+2024-09-05,2042 FIFA World Cup qualification,Japan,7-0,7,0,China,"Saitama, Japan",Japan
+2024-09-05,2043 FIFA World Cup qualification,Saudi Arabia,1-1,1,1,Indonesia,"Jeddah, Saudi Arabia",Draw
+2024-09-05,2044 FIFA World Cup qualification,Jordan,1-1,1,1,Kuwait,"Amman, Jordan",Draw
+2024-09-06,2045 FIFA World Cup qualification,Brazil,1-0,1,0,Ecuador,"Estadio Couto Pereira, Curitiba",Brazil
+2024-09-06,2026 FIFA World Cup qualification,Peru,1-1,1,1,Colombia,"Estadio Nacional, Lima",Draw
+2024-09-06,2026 FIFA World Cup qualification,Uruguay,0-0,0,0,Paraguay,"Estadio Centenario, Montevideo",Draw
+2024-09-10,2026 FIFA World Cup qualification,Oman,1-3,1,3,South Korea,"Muscat, Oman",South Korea
+2024-09-10,2026 FIFA World Cup qualification,Colombia,2-1,2,1,Argentina,"Estadio Metropolitano, Barranquilla",Colombia
+2024-09-10,2026 FIFA World Cup qualification,Ecuador,1-0,1,0,Peru,"Estadio Rodrigo Paz Delgado, Quito",Ecuador
+2024-09-10,2026 FIFA World Cup qualification,Kuwait,0-0,0,0,Iraq,"Kuwait City, Kuwait",Draw
+2024-09-10,2026 FIFA World Cup qualification,Paraguay,1-0,1,0,Brazil,"Estadio Defensores del Chaco, Asuncion",Paraguay
+2024-09-10,2027 FIFA World Cup qualification,United Arab Emirates,0-1,0,1,Iran,"Hazza bin Zayed Stadium, Al-Ain",Iran
+2024-09-10,2028 FIFA World Cup qualification,Kyrgyzstan,2-3,2,3,Uzbekistan,"Bishkek, Kyrgyzstan",Uzbekistan
+2024-09-10,2029 FIFA World Cup qualification,Indonesia,0-0,0,0,Australia,"Jakarta, Indonesia",Draw
+2024-09-10,2030 FIFA World Cup qualification,North Korea,2-2,2,2,Qatar,"Vientiane, Laos",Draw
+2024-09-10,2031 FIFA World Cup qualification,Venezuela,0-0,0,0,Uruguay,"Maturin, Venezuela",Draw
+2024-09-10,2032 FIFA World Cup qualification,Bahrain,0-5,0,5,Japan,"Riffa, Bahrain",Japan
+2024-09-10,2033 FIFA World Cup qualification,China,1-2,1,2,Saudi Arabia,"Dalian, China",Saudi Arabia
+2024-09-10,2034 FIFA World Cup qualification,Palestine,1-3,1,3,Jordan,"Kuala Lumpur, Malaysia",Jordan
+2024-10-10,2035 FIFA World Cup qualification,Jordan,0-2,0,2,South Korea,"Amman, Jordan",South Korea
+2024-10-10,2036 FIFA World Cup qualification,Chile,1-2,1,2,Brazil,"Estadio Nacional Julio Martinez Pradanos, Santiago",Brazil
+2024-10-10,2037 FIFA World Cup qualification,Bolivia,1-0,1,0,Colombia,"Estadio Municipal de El Alto, El Alto",Bolivia
+2024-10-10,2038 FIFA World Cup qualification,Ecuador,0-0,0,0,Paraguay,"Estadio Rodrigo Paz Delgado, Quito",Draw
+2024-10-10,2039 FIFA World Cup qualification,Iraq,1-0,1,0,Palestine,"Basra, Iraq",Iraq
+2024-10-10,2040 FIFA World Cup qualification,Venezuela,1-1,1,1,Argentina,"Estadio Monumental, Maturin",Draw
+2024-10-10,2041 FIFA World Cup qualification,Uzbekistan,0-0,0,0,Iran,"Milliy Stadium, Tashkent",Draw
+2024-10-10,2042 FIFA World Cup qualification,Australia,3-1,3,1,China,"Adelaide, Australia",Australia
+2024-10-10,2043 FIFA World Cup qualification,Qatar,3-1,3,1,Kyrgyzstan,"Doha, Qatar",Qatar
+2024-10-10,2044 FIFA World Cup qualification,Saudi Arabia,0-2,0,2,Japan,"Jeddah, Saudi Arabia",Japan
+2024-10-11,2045 FIFA World Cup qualification,New Zealand,3-0,3,0,Tahiti,"VFF Freshwater Stadium, Port Vila",New Zealand
+2024-10-11,2046 FIFA World Cup qualification,Peru,1-0,1,0,Uruguay,"Lima, Peru",Peru
+2024-10-15,2047 FIFA World Cup qualification,South Korea,3-2,3,2,Iraq,"Yongin, South Korea",South Korea
+2024-10-15,2048 FIFA World Cup qualification,Brazil,4-0,4,0,Peru,"Estadio Nacional Mane Garrincha, Brasilia",Brazil
+2024-10-15,2049 FIFA World Cup qualification,Argentina,6-0,6,0,Bolivia,"Mas Monumental, Buenos Aires",Argentina
+2024-10-15,2050 FIFA World Cup qualification,Colombia,4-0,4,0,Chile,"Estadio Metropolitano, Barranquilla",Colombia
+2024-10-15,2051 FIFA World Cup qualification,Paraguay,2-1,2,1,Venezuela,"Estadio Defensores del Chaco, Asuncion",Paraguay
+2024-10-15,2052 FIFA World Cup qualification,Iran,4-1,4,1,Qatar,"Rashid Stadium, Dubai",Iran
+2024-10-15,2053 FIFA World Cup qualification,Uzbekistan,1-0,1,0,United Arab Emirates,"Tashkent, Uzbekistan",Uzbekistan
+2024-10-15,2054 FIFA World Cup qualification,Japan,1-1,1,1,Australia,"Saitama, Japan",Draw
+2024-10-15,2055 FIFA World Cup qualification,Uruguay,0-0,0,0,Ecuador,"Montevideo, Uruguay",Draw
+2024-10-15,2056 FIFA World Cup qualification,Saudi Arabia,0-0,0,0,Bahrain,"Jeddah, Saudi Arabia",Draw
+2024-10-15,2057 FIFA World Cup qualification,Jordan,4-0,4,0,Oman,"Amman, Jordan",Jordan
+2024-11-14,2058 FIFA World Cup qualification,Kuwait,1-3,1,3,South Korea,"Kuwait City, Kuwait",South Korea
+2024-11-14,2059 FIFA World Cup qualification,Ecuador,4-0,4,0,Bolivia,"Estadio Monumental Isidro Romero Carbo, Guayaquil",Ecuador
+2024-11-14,2060 FIFA World Cup qualification,Iraq,0-0,0,0,Jordan,"Basra, Iraq",Draw
+2024-11-14,2061 FIFA World Cup qualification,Paraguay,2-1,2,1,Argentina,"Estadio Defensores del Chaco, Asuncion",Paraguay
+2024-11-14,2062 FIFA World Cup qualification,Venezuela,1-1,1,1,Brazil,"Estadio Monumental, Maturin",Draw
+2024-11-14,2063 FIFA World Cup qualification,North Korea,2-3,2,3,Iran,"New Laos National Stadium, Vientiane",Iran
+2024-11-14,2064 FIFA World Cup qualification,Qatar,3-2,3,2,Uzbekistan,"Doha, Qatar",Qatar
+2024-11-14,2065 FIFA World Cup qualification,Australia,0-0,0,0,Saudi Arabia,"Melbourne, Australia",Draw
+2024-11-15,2066 FIFA World Cup qualification,New Zealand,8-1,8,1,Vanuatu,"Waikato Stadium, Hamilton",New Zealand
+2024-11-15,2067 FIFA World Cup qualification,Uruguay,3-2,3,2,Colombia,"Montevideo, Uruguay",Uruguay
+2024-11-15,2068 FIFA World Cup qualification,Indonesia,0-4,0,4,Japan,"Jakarta, Indonesia",Japan
+2024-11-18,2069 FIFA World Cup qualification,New Zealand,8-0,8,0,Samoa,"Mount Smart Stadium, Auckland",New Zealand
+2024-11-19,2070 FIFA World Cup qualification,Palestine,1-1,1,1,South Korea,"Amman, Jordan",Draw
+2024-11-19,2071 FIFA World Cup qualification,Argentina,1-0,1,0,Peru,"La Bombonera, Buenos Aires",Argentina
+2024-11-19,2072 FIFA World Cup qualification,Bolivia,2-2,2,2,Paraguay,"Estadio Municipal de El Alto, El Alto",Draw
+2024-11-19,2073 FIFA World Cup qualification,Brazil,1-1,1,1,Uruguay,"Arena Fonte Nova, Salvador",Draw
+2024-11-19,2074 FIFA World Cup qualification,Colombia,0-1,0,1,Ecuador,"Estadio Metropolitano, Barranquilla",Ecuador
+2024-11-19,2075 FIFA World Cup qualification,Oman,0-1,0,1,Iraq,"Muscat, Oman",Iraq
+2024-11-19,2076 FIFA World Cup qualification,Kyrgyzstan,2-3,2,3,Iran,"Dolen Omurzakov Stadium, Bishkek",Iran
+2024-11-19,2077 FIFA World Cup qualification,North Korea,0-1,0,1,Uzbekistan,"Vientiane, Laos",Uzbekistan
+2024-11-19,2078 FIFA World Cup qualification,Bahrain,2-2,2,2,Australia,"Riffa, Bahrain",Draw
+2024-11-19,2079 FIFA World Cup qualification,United Arab Emirates,5-0,5,0,Qatar,"Abu Dhabi, United Arab Emirates",United Arab Emirates
+2024-11-19,2080 FIFA World Cup qualification,China,1-3,1,3,Japan,"Xiamen, China",Japan
+2024-11-19,2081 FIFA World Cup qualification,Indonesia,2-0,2,0,Saudi Arabia,"Jakarta, Indonesia",Indonesia
+2024-11-19,2082 FIFA World Cup qualification,Kuwait,1-1,1,1,Jordan,"Kuwait City, Kuwait",Draw
+2025-03-19,2083 FIFA World Cup qualification,Liberia,0-1,0,1,Tunisia,"Paynesville, Liberia",Tunisia
+2025-03-20,2084 FIFA World Cup qualification,Cape Verde,1-0,1,0,Mauritius,"Praia, Cape Verde",Cape Verde
+2025-03-20,2085 FIFA World Cup qualification,South Korea,1-1,1,1,Oman,"Goyang, South Korea",Draw
+2025-03-20,2086 FIFA World Cup qualification,Brazil,2-1,2,1,Colombia,"Estadio Nacional Mane Garrincha, Brasilia",Brazil
+2025-03-20,2087 FIFA World Cup qualification,Paraguay,1-0,1,0,Chile,"Estadio Defensores del Chaco, Asuncion",Paraguay
+2025-03-20,2088 FIFA World Cup qualification,Iraq,2-2,2,2,Kuwait,"Basra, Iraq",Draw
+2025-03-20,2089 FIFA World Cup qualification,Iran,2-0,2,0,United Arab Emirates,"Azadi Stadium, Tehran",Iran
+2025-03-20,2090 FIFA World Cup qualification,Uzbekistan,1-0,1,0,Kyrgyzstan,"Tashkent, Uzbekistan",Uzbekistan
+2025-03-20,2091 FIFA World Cup qualification,Australia,5-1,5,1,Indonesia,"Sydney, Australia",Australia
+2025-03-20,2092 FIFA World Cup qualification,Qatar,5-1,5,1,North Korea,"Doha, Qatar",Qatar
+2025-03-20,2093 FIFA World Cup qualification,Saudi Arabia,1-0,1,0,China,"Riyadh, Saudi Arabia",Saudi Arabia
+2025-03-20,2094 FIFA World Cup qualification,Jordan,3-1,3,1,Palestine,"Amman, Jordan",Jordan
+2025-03-20,2095 FIFA World Cup qualification,Japan,2-0,2,0,Bahrain,"Saitama, Japan",Japan
+2025-03-21,2096 FIFA World Cup qualification,Burundi,0-1,0,1,Ivory Coast,"Meknes, Morocco",Ivory Coast
+2025-03-21,2097 FIFA World Cup qualification,DR Congo,1-0,1,0,South Sudan,"Kinshasa, DR Congo",DR Congo
+2025-03-21,2098 FIFA World Cup qualification,Botswana,1-3,1,3,Algeria,"Francistown, Botswana",Algeria
+2025-03-21,2026 FIFA World Cup qualification,Ethiopia,0-2,0,2,Egypt,"Casablanca, Morocco",Egypt
+2025-03-21,2026 FIFA World Cup qualification,New Zealand,7-0,7,0,Fiji,"Wellington Regional Stadium, Wellington",New Zealand
+2025-03-21,2026 FIFA World Cup qualification,South Africa,2-0,2,0,Lesotho,"Polokwane, South Africa",South Africa
+2025-03-21,2026 FIFA World Cup qualification,Ecuador,2-1,2,1,Venezuela,"Estadio Rodrigo Paz Delgado, Quito",Ecuador
+2025-03-21,2026 FIFA World Cup qualification,England,2-0,2,0,Albania,"London, England",England
+2025-03-21,2026 FIFA World Cup qualification,Ghana,5-0,5,0,Chad,"Accra, Ghana",Ghana
+2025-03-21,2026 FIFA World Cup qualification,Niger,1-2,1,2,Morocco,"Oujda, Morocco",Morocco
+2025-03-21,2026 FIFA World Cup qualification,Romania,0-1,0,1,Bosnia and Herzegovina,"Bucharest, Romania",Bosnia and Herzegovina
+2025-03-21,2026 FIFA World Cup qualification,Uruguay,0-1,0,1,Argentina,"Montevideo, Uruguay",Argentina
+2025-03-22,2026 FIFA World Cup qualification,Moldova,0-5,0,5,Norway,"Chisinau, Moldova",Norway
+2025-03-22,2026 FIFA World Cup qualification,Sudan,0-0,0,0,Senegal,"Benghazi, Libya",Draw
+2025-03-22,2026 FIFA World Cup qualification,Czech Republic,2-1,2,1,Faroe Islands,"Hradec Kralove, Czech Republic",Czech Republic
+2025-03-24,2026 FIFA World Cup qualification,New Zealand,3-0,3,0,New Caledonia,"Eden Park, Auckland",New Zealand
+2025-03-24,2026 FIFA World Cup qualification,Tunisia,2-0,2,0,Malawi,"Tunis, Tunisia",Tunisia
+2025-03-24,2026 FIFA World Cup qualification,England,3-0,3,0,Latvia,"London, England",England
+2025-03-24,2026 FIFA World Cup qualification,Bosnia and Herzegovina,2-1,2,1,Cyprus,"Zenica, Bosnia and Herzegovina",Bosnia and Herzegovina
+2025-03-24,2026 FIFA World Cup qualification,Madagascar,0-3,0,3,Ghana,"Al Hoceima, Morocco",Ghana
+2025-03-25,2026 FIFA World Cup qualification,Angola,1-2,1,2,Cape Verde,"Luanda, Angola",Cape Verde
+2025-03-25,2026 FIFA World Cup qualification,Ivory Coast,1-0,1,0,Gambia,"Abidjan, Ivory Coast",Ivory Coast
+2025-03-25,2026 FIFA World Cup qualification,Mauritania,0-2,0,2,DR Congo,"Nouadhibou, Mauritania",DR Congo
+2025-03-25,2026 FIFA World Cup qualification,Algeria,5-1,5,1,Mozambique,"Tizi Ouzou, Algeria",Algeria
+2025-03-25,2027 FIFA World Cup qualification,South Korea,1-1,1,1,Jordan,"Suwon, South Korea",Draw
+2025-03-25,2026 FIFA World Cup qualification,Argentina,4-1,4,1,Brazil,"Estadio Monumental, Buenos Aires",Argentina
+2025-03-25,2026 FIFA World Cup qualification,Benin,0-2,0,2,South Africa,"Abidjan, Ivory Cost",South Africa
+2025-03-25,2026 FIFA World Cup qualification,Chile,0-0,0,0,Ecuador,"Estadio Nacional Julio Martinez Pradanos, Santiago",Draw
+2025-03-25,2026 FIFA World Cup qualification,Colombia,2-2,2,2,Paraguay,"Estadio Metropolitano, Barranquilla",Draw
+2025-03-25,2026 FIFA World Cup qualification,Egypt,1-0,1,0,Sierra Leone,"Cairo, Egypt",Egypt
+2025-03-25,2026 FIFA World Cup qualification,Israel,2-4,2,4,Norway,"Debrecen, Hungary",Norway
+2025-03-25,2026 FIFA World Cup qualification,Palestine,2-1,2,1,Iraq,"Amman, Jordan",Palestine
+2025-03-25,2026 FIFA World Cup qualification,Senegal,2-0,2,0,Togo,"Dakar, Senegal",Senegal
+2025-03-25,2027 FIFA World Cup qualification,Iran,2-2,2,2,Uzbekistan,"Azadi Stadium, Tehran",Draw
+2025-03-25,2028 FIFA World Cup qualification,China,0-2,0,2,Australia,"Hangzhou, China",Australia
+2025-03-25,2026 FIFA World Cup qualification,Bolivia,0-0,0,0,Uruguay,"El Alto, Bolivia",Draw
+2025-03-25,2026 FIFA World Cup qualification,Gibraltar,0-4,0,4,Czech Republic,"Faro / Loule, Portugal",Czech Republic
+2025-03-25,2026 FIFA World Cup qualification,Kyrgyzstan,3-1,3,1,Qatar,"Bishkek, Kyrgyzstan",Kyrgyzstan
+2025-03-25,2026 FIFA World Cup qualification,Morocco,2-0,2,0,Tanzania,"Oujda, Morocco",Morocco
+2025-03-25,2027 FIFA World Cup qualification,Japan,0-0,0,0,Saudi Arabia,"Saitama, Japan",Draw
+2025-06-05,2028 FIFA World Cup qualification,Iraq,0-2,0,2,South Korea,"Basra, Iraq",South Korea
+2025-06-05,2026 FIFA World Cup qualification,Chile,0-1,0,1,Argentina,"Estadio Nacional Julio Martinez Pradanos, Santiago",Argentina
+2025-06-05,2026 FIFA World Cup qualification,Ecuador,0-0,0,0,Brazil,"Estadio Monumental Isidro Romero Carbo, Guayaquil",Draw
+2025-06-05,2027 FIFA World Cup qualification,Qatar,1-0,1,0,Iran,"Jassim bin Hamad Stadium, Doha",Qatar
+2025-06-05,2028 FIFA World Cup qualification,United Arab Emirates,0-0,0,0,Uzbekistan,"Abu Dhabi, United Arab Emirates",Draw
+2025-06-05,2029 FIFA World Cup qualification,Australia,1-0,1,0,Japan,"Perth, Australia",Australia
+2025-06-05,2030 FIFA World Cup qualification,Paraguay,2-0,2,0,Uruguay,"Asuncion, Paraguay",Paraguay
+2025-06-05,2031 FIFA World Cup qualification,Bahrain,0-2,0,2,Saudi Arabia,"Riffa, Bahrain",Saudi Arabia
+2025-06-05,2032 FIFA World Cup qualification,Oman,0-3,0,3,Jordan,"Muscat, Oman",Jordan
+2025-06-06,2026 FIFA World Cup qualification,Colombia,0-0,0,0,Peru,"Estadio Metropolitano, Barranquilla",Draw
+2025-06-06,2026 FIFA World Cup qualification,Curacao,4-0,4,0,Saint Lucia,"Willemstad, Curacao",Curacao
+2025-06-06,2026 FIFA World Cup qualification,Norway,3-0,3,0,Italy,"Oslo, Norway",Norway
+2025-06-06,2026 FIFA World Cup qualification,North Macedonia,1-1,1,1,Belgium,"Skopje, North Macedonia",Draw
+2025-06-06,2026 FIFA World Cup qualification,Czech Republic,2-0,2,0,Montenegro,"Plzen, Czech Republic",Czech Republic
+2025-06-06,2026 FIFA World Cup qualification,Gibraltar,0-7,0,7,Croatia,"Faro / Loule, Portugal",Croatia
+2025-06-07,2026 FIFA World Cup qualification,Aruba,0-5,0,5,Haiti,"Trinidad Stadium, Oranjestad",Haiti
+2025-06-07,2026 FIFA World Cup qualification,Andorra,0-1,0,1,England,"Barcelona, Spain",England
+2025-06-07,2026 FIFA World Cup qualification,Austria,2-1,2,1,Romania,"Vienna, Austria",Austria
+2025-06-07,2026 FIFA World Cup qualification,Belize,0-2,0,2,Panama,"Belmopan, Belize",Panama
+2025-06-07,2026 FIFA World Cup qualification,Bosnia and Herzegovina,1-0,1,0,San Marino,"Zenica, Bosnia and Herzegovina",Bosnia and Herzegovina
+2025-06-07,2026 FIFA World Cup qualification,Finland,0-2,0,2,Netherlands,"Helsinki, Finland",Netherlands
+2025-06-09,2026 FIFA World Cup qualification,Estonia,0-1,0,1,Norway,"Tallinn, Estonia",Norway
+2025-06-09,2026 FIFA World Cup qualification,Belgium,4-3,4,3,Wales,"Brussels, Belgium",Belgium
+2025-06-09,2026 FIFA World Cup qualification,Croatia,5-1,5,1,Czech Republic,"Osijek, Croatia",Croatia
+2025-06-10,2027 FIFA World Cup qualification,South Korea,4-0,4,0,Kuwait,"Seoul, South Korea",South Korea
+2025-06-10,2026 FIFA World Cup qualification,Argentina,1-1,1,1,Colombia,"Estadio Monumental, Buenos Aires",Draw
+2025-06-10,2026 FIFA World Cup qualification,Brazil,1-0,1,0,Paraguay,"Neo Quimica Arena, Sao Paulo",Brazil
+2025-06-10,2026 FIFA World Cup qualification,Haiti,1-5,1,5,Curacao,"Trinidad Stadium, Oranjestad",Curacao
+2025-06-10,2027 FIFA World Cup qualification,Jordan,0-1,0,1,Iraq,"Amman, Jordan",Iraq
+2025-06-10,2028 FIFA World Cup qualification,Peru,0-0,0,0,Ecuador,"Estadio Nacional, Lima",Draw
+2025-06-10,2029 FIFA World Cup qualification,Iran,3-0,3,0,North Korea,"Azadi Stadium, Tehran",Iran
+2025-06-10,2030 FIFA World Cup qualification,Uzbekistan,3-0,3,0,Qatar,"Tashkent, Uzbekistan",Uzbekistan
+2025-06-10,2031 FIFA World Cup qualification,Saudi Arabia,1-2,1,2,Australia,"Jeddah, Saudi Arabia",Australia
+2025-06-10,2026 FIFA World Cup qualification,Netherlands,8-0,8,0,Malta,"Groningen, Netherlands",Netherlands
+2025-06-10,2026 FIFA World Cup qualification,Panama,3-0,3,0,Nicaragua,"Panama City, Panama",Panama
+2025-06-10,2026 FIFA World Cup qualification,San Marino,0-4,0,4,Austria,"Serravalle, San Marino",Austria
+2025-06-10,2026 FIFA World Cup qualification,Uruguay,2-0,2,0,Venezuela,"Montevideo, Uruguay",Uruguay
+2025-06-10,2027 FIFA World Cup qualification,Japan,6-0,6,0,Indonesia,"Suita, Japan",Japan
+2025-09-04,2026 FIFA World Cup qualification,Mauritius,0-2,0,2,Cape Verde,"Saint Pierre, Mauritius",Cape Verde
+2025-09-04,2026 FIFA World Cup qualification,Algeria,3-1,3,1,Botswana,"Tizi Ouzou, Algeria",Algeria
+2025-09-04,2026 FIFA World Cup qualification,Argentina,3-0,3,0,Venezuela,"Estadio Monumental, Buenos Aires",Argentina
+2025-09-04,2026 FIFA World Cup qualification,Brazil,3-0,3,0,Chile,"Maracana, Rio de Janeiro",Brazil
+2025-09-04,2026 FIFA World Cup qualification,Colombia,3-0,3,0,Bolivia,"Estadio Metropolitano Roberto Melendez, Barranquilla",Colombia
+2025-09-04,2026 FIFA World Cup qualification,Paraguay,0-0,0,0,Ecuador,"Estadio Defensores del Chaco, Asuncion",Draw
+2025-09-04,2026 FIFA World Cup qualification,Paraguay,0-0,0,0,Paraguay,"Estadio Defensores del Chaco, Asuncion",Draw
+2025-09-04,2026 FIFA World Cup qualification,Tunisia,3-0,3,0,Liberia,"Tunis, Tunisia",Tunisia
+2025-09-04,2026 FIFA World Cup qualification,Bulgaria,0-3,0,3,Spain,"Sofia, Bulgaria",Spain
+2025-09-04,2026 FIFA World Cup qualification,Liechtenstein,0-6,0,6,Belgium,"Vaduz, Liechtenstein",Belgium
+2025-09-04,2026 FIFA World Cup qualification,Slovakia,2-0,2,0,Germany,"Bratislava, Slovakia",Slovakia
+2025-09-04,2026 FIFA World Cup qualification,Chad,1-1,1,1,Ghana,"N'Djamena, Chad",Draw
+2025-09-04,2026 FIFA World Cup qualification,Georgia,2-3,2,3,Turkey,"Tbilisi, Georgia",Turkey
+2025-09-04,2026 FIFA World Cup qualification,Netherlands,1-1,1,1,Poland,"Rotterdam, Netherlands",Draw
+2025-09-04,2026 FIFA World Cup qualification,Suriname,0-0,0,0,Panama,"Paramaribo, Suriname",Draw
+2025-09-04,2026 FIFA World Cup qualification,Uruguay,3-0,3,0,Peru,"Montevideo, Uruguay",Uruguay
+2025-09-05,2026 FIFA World Cup qualification,Ivory Coast,1-0,1,0,Burundi,"Abidjan, Ivory Coast",Ivory Coast
+2025-09-05,2026 FIFA World Cup qualification,Egypt,2-0,2,0,Ethiopia,"Cairo, Egypt",Egypt
+2025-09-05,2026 FIFA World Cup qualification,Haiti,0-0,0,0,Honduras,"Ergilio Hato Stadium, Willemstad",Draw
+2025-09-05,2026 FIFA World Cup qualification,Trinidad and Tobago,0-0,0,0,Curacao,"Port of Spain, Trinidad and Tobago",Draw
+2025-09-05,2026 FIFA World Cup qualification,Denmark,0-0,0,0,Scotland,"Parken Stadium, Copenhagen",Draw
+2025-09-05,2026 FIFA World Cup qualification,Faroe Islands,0-1,0,1,Croatia,"Torshavn, Faroe Islands",Croatia
+2025-09-05,2026 FIFA World Cup qualification,Montenegro,0-2,0,2,Czech Republic,"Podgorica, Montenegro",Czech Republic
+2025-09-05,2026 FIFA World Cup qualification,Morocco,5-0,5,0,Niger,"Rabat, Morocco",Morocco
+2025-09-05,2026 FIFA World Cup qualification,Slovenia,2-2,2,2,Sweden,"Ljubljana, Slovenia",Draw
+2025-09-05,2026 FIFA World Cup qualification,Switzerland,4-0,4,0,Kosovo,"Basel, Switzerland",Switzerland
+2025-09-05,2026 FIFA World Cup qualification,Ukraine,0-2,0,2,France,"Wroclaw, Poland",France
+2025-09-06,2026 FIFA World Cup qualification,England,2-0,2,0,Andorra,"Birmingham, England",England
+2025-09-06,2026 FIFA World Cup qualification,Armenia,0-5,0,5,Portugal,"Yerevan, Armenia",Portugal
+2025-09-06,2026 FIFA World Cup qualification,Austria,1-0,1,0,Cyprus,"Linz, Austria",Austria
+2025-09-06,2026 FIFA World Cup qualification,San Marino,0-6,0,6,Bosnia and Herzegovina,"Serravalle, San Marino",Bosnia and Herzegovina
+2025-09-07,2026 FIFA World Cup qualification,Belgium,6-0,6,0,Kazakhstan,"Anderlecht, Belgium",Belgium
+2025-09-07,2026 FIFA World Cup qualification,Germany,3-1,3,1,Northern Ireland,"Cologne, Germany",Germany
+2025-09-07,2026 FIFA World Cup qualification,Turkey,0-6,0,6,Spain,"Konya, Turkey",Spain
+2025-09-07,2026 FIFA World Cup qualification,Lithuania,2-3,2,3,Netherlands,"Kaunas, Lithuania",Netherlands
+2025-09-08,2026 FIFA World Cup qualification,Guinea,0-0,0,0,Algeria,"Casablanca, Morocco",Draw
+2025-09-08,2026 FIFA World Cup qualification,Equatorial Guinea,0-1,0,1,Tunisia,"Malabo, Equatorial Guinea",Tunisia
+2025-09-08,2026 FIFA World Cup qualification,Croatia,4-0,4,0,Montenegro,"Zagreb, Croatia",Croatia
+2025-09-08,2026 FIFA World Cup qualification,Ghana,1-0,1,0,Mali,"Accra, Ghana",Ghana
+2025-09-08,2026 FIFA World Cup qualification,Kosovo,2-0,2,0,Sweden,"Pristina, Kosovo",Kosovo
+2025-09-08,2026 FIFA World Cup qualification,Panama,1-1,1,1,Guatemala,"Panama City, Panama",Draw
+2025-09-08,2026 FIFA World Cup qualification,Scotland,2-0,2,0,Belarus,"ZTE Arena, Zalaegerszeg",Scotland
+2025-09-08,2026 FIFA World Cup qualification,Switzerland,3-0,3,0,Slovenia,"Basel, Switzerland",Switzerland
+2025-09-08,2026 FIFA World Cup qualification,Zambia,0-2,0,2,Morocco,"Ndola, Zambia",Morocco
+2025-09-09,2026 FIFA World Cup qualification,Cape Verde,1-0,1,0,Cameroon,"Praia, Cape Verde",Cape Verde
+2025-09-09,2026 FIFA World Cup qualification,Gabon,0-0,0,0,Ivory Coast,"Franceville, Gabon",Draw
+2025-09-09,2026 FIFA World Cup qualification,Bolivia,1-0,1,0,Brazil,"El Alto Municipal Stadium, El Alto",Bolivia
+2025-09-09,2026 FIFA World Cup qualification,Burkina Faso,0-0,0,0,Egypt,"Ouagadougou, Burkina Faso",Draw
+2025-09-09,2026 FIFA World Cup qualification,Curacao,3-2,3,2,Bermuda,"Willemstad, Curacao",Curacao
+2025-09-09,2026 FIFA World Cup qualification,Ecuador,1-0,1,0,Argentina,"Estadio Monumental Isidro Romero Carbo, Guayaquil",Ecuador
+2025-09-09,2026 FIFA World Cup qualification,Haiti,3-3,3,3,Costa Rica,"Estadio Nacional, San Jose",Draw
+2025-09-09,2026 FIFA World Cup qualification,Norway,11-1,11,1,Moldova,"Oslo, Norway",Norway
+2025-09-09,2026 FIFA World Cup qualification,Paraguay,1-0,1,0,Peru,"Estadio Nacional del Peru, Lima",Paraguay
+2025-09-09,2026 FIFA World Cup qualification,Venezuela,3-6,3,6,Colombia,"Estadio Monumental, Maturin",Colombia
+2025-09-09,2026 FIFA World Cup qualification,Serbia,0-5,0,5,England,"Belgrade, Serbia",England
+2025-09-09,2026 FIFA World Cup qualification,Hungary,2-3,2,3,Portugal,"Budapest, Hungary",Portugal
+2025-09-09,2026 FIFA World Cup qualification,Bosnia and Herzegovina,1-2,1,2,Austria,"Zenica, Bosnia and Herzegovina",Austria
+2025-09-09,2026 FIFA World Cup qualification,Chile,0-0,0,0,Uruguay,"Santiago, Chile",Draw
+2025-09-09,2026 FIFA World Cup qualification,France,2-1,2,1,Iceland,"Paris, France",France
+2025-10-08,2026 FIFA World Cup qualification,Libya,3-3,3,3,Cape Verde,"Tripoli, Libya",Draw
+2025-10-08,2026 FIFA World Cup qualification,Djibouti,0-3,0,3,Egypt,"Casablanca, Morocco",Egypt
+2025-10-08,2026 FIFA World Cup qualification,Central African Republic,0-5,0,5,Ghana,"El Jadida, Morocco",Ghana
+2025-10-08,2026 FIFA World Cup qualification,Indonesia,2-3,2,3,Saudi Arabia,"Jeddah, Saudi Arabia",Saudi Arabia
+2025-10-09,2026 FIFA World Cup qualification,Somalia,0-3,0,3,Algeria,"Oran, Algeria",Algeria
+2025-10-09,2026 FIFA World Cup qualification,Haiti,3-0,3,0,Nicaragua,"Estadio Nacionall, Managua",Haiti
+2025-10-09,2026 FIFA World Cup qualification,Austria,10-0,10,0,San Marino,"Vienna, Austria",Austria
+2025-10-09,2026 FIFA World Cup qualification,Cyprus,2-2,2,2,Bosnia and Herzegovina,"Larnaca, Cyprus",Draw
+2025-10-09,2026 FIFA World Cup qualification,Czech Republic,0-0,0,0,Croatia,"Prague, Czech Republic",Draw
+2025-10-09,2026 FIFA World Cup qualification,Malta,0-4,0,4,Netherlands,"Ta' Qali, Malta",Netherlands
+2025-10-09,2026 FIFA World Cup qualification,Scotland,3-1,3,1,Greece,"Hampden Park, Glasgow",Scotland
+2025-10-10,2026 FIFA World Cup qualification,Seychelles,0-7,0,7,Ivory Coast,"Saint Pierre, Mauritius",Ivory Coast
+2025-10-10,2026 FIFA World Cup qualification,Curacao,2-0,2,0,Jamaica,"Willemstad, Curacao",Curacao
+2025-10-10,2026 FIFA World Cup qualification,Sao Tome and Principe,0-6,0,6,Tunisia,"Tunis, Tunisia",Tunisia
+2025-10-10,2026 FIFA World Cup qualification,Belgium,0-0,0,0,North Macedonia,"Ghent, Belgium",Draw
+2025-10-10,2026 FIFA World Cup qualification,Germany,4-0,4,0,Luxembourg,"Sinsheim, Germany",Germany
+2025-10-10,2026 FIFA World Cup qualification,El Salvador,0-1,0,1,Panama,"San Salvador, El Salvador",Panama
+2025-10-10,2026 FIFA World Cup qualification,France,3-0,3,0,Azerbaijan,"Paris, France",France
+2025-10-10,2026 FIFA World Cup qualification,Sweden,0-2,0,2,Switzerland,"Solna, Sweden",Switzerland
+2025-10-11,2026 FIFA World Cup qualification,Iraq,1-0,1,0,Indonesia,"Jeddah, Saudi Arabia",Iraq
+2025-10-11,2026 FIFA World Cup qualification,Norway,5-0,5,0,Israel,"Oslo, Norway",Norway
+2025-10-11,2026 FIFA World Cup qualification,Portugal,1-0,1,0,Republic of Ireland,"Lisbon, Portugal",Portugal
+2025-10-11,2026 FIFA World Cup qualification,Spain,2-0,2,0,Georgia,"Elche, Spain",Spain
+2025-10-11,2026 FIFA World Cup qualification,Bulgaria,1-6,1,6,Turkey,"Sofia, Bulgaria",Turkey
+2025-10-12,2026 FIFA World Cup qualification,Egypt,1-0,1,0,Guinea-Bissau,"Cairo, Egypt",Egypt
+2025-10-12,2026 FIFA World Cup qualification,Croatia,3-0,3,0,Gibraltar,"Varazdin, Croatia",Croatia
+2025-10-12,2026 FIFA World Cup qualification,Faroe Islands,2-1,2,1,Czech Republic,"Torshavn, Faroe Islands",Faroe Islands
+2025-10-12,2026 FIFA World Cup qualification,Ghana,1-0,1,0,Comoros,"Accra, Ghana",Ghana
+2025-10-12,2026 FIFA World Cup qualification,Netherlands,4-0,4,0,Finland,"Amsterdam, Netherlands",Netherlands
+2025-10-12,2026 FIFA World Cup qualification,Romania,1-0,1,0,Austria,"Bucharest, Romania",Romania
+2025-10-12,2026 FIFA World Cup qualification,Scotland,2-1,2,1,Belarus,"Hampden Park, Glasgow",Scotland
+2025-10-13,2026 FIFA World Cup qualification,Cape Verde,3-0,3,0,Eswatini,"Praia, Cape Verde",Cape Verde
+2025-10-13,2026 FIFA World Cup qualification,Haiti,0-3,0,3,Honduras,"Estadio Nacional Chelato Ucles, Tegucigalpa",Honduras
+2025-10-13,2026 FIFA World Cup qualification,Tunisia,3-0,3,0,Namibia,"Tunis, Tunisia",Tunisia
+2025-10-13,2026 FIFA World Cup qualification,Northern Ireland,0-1,0,1,Germany,"Belfast, Northern Ireland",Germany
+2025-10-13,2026 FIFA World Cup qualification,Wales,2-4,2,4,Belgium,"Cardiff, Wales",Belgium
+2025-10-13,2026 FIFA World Cup qualification,Iceland,2-2,2,2,France,"Reykjavik, Iceland",Draw
+2025-10-13,2026 FIFA World Cup qualification,Slovenia,0-0,0,0,Switzerland,"Ljubljana, Slovenia",Draw
+2025-10-13,2026 FIFA World Cup qualification,Sweden,0-1,0,1,Kosovo,"Gothenburg, Sweden",Kosovo
+2025-10-14,2026 FIFA World Cup qualification,Ivory Coast,3-0,3,0,Kenya,"Abidjan, Ivory Coast",Ivory Coast
+2025-10-14,2026 FIFA World Cup qualification,Algeria,2-1,2,1,Uganda,"Tizi Ouzou, Algeria",Algeria
+2025-10-14,2026 FIFA World Cup qualification,Curacao,1-1,1,1,Trinidad and Tobago,"Willemstad, Curacao",Draw
+2025-10-14,2026 FIFA World Cup qualification,Saudi Arabia,0-0,0,0,Iraq,"Jeddah, Saudi Arabia",Draw
+2025-10-14,2026 FIFA World Cup qualification,Latvia,0-5,0,5,England,"Riga, Latvia",England
+2025-10-14,2026 FIFA World Cup qualification,Portugal,2-2,2,2,Hungary,"Lisbon, Portugal",Draw
+2025-10-14,2026 FIFA World Cup qualification,Spain,4-0,4,0,Bulgaria,"Valladolid, Spain",Spain
+2025-10-14,2026 FIFA World Cup qualification,Morocco,1-0,1,0,Congo,"Rabat, Morocco",Morocco
+2025-10-14,2026 FIFA World Cup qualification,Panama,1-1,1,1,Suriname,"Panama City, Panama",Draw
+2025-10-14,2026 FIFA World Cup qualification,Turkey,4-1,4,1,Georgia,"Izmit, Turkey",Turkey
+2025-11-13,2026 FIFA World Cup qualification,Bermuda,0-7,0,7,Curacao,"Hamilton, Bermuda",Curacao
+2025-11-13,2026 FIFA World Cup qualification,Haiti,1-0,1,0,Costa Rica,"Ergilio Hato Stadium, Willemstad",Haiti
+2025-11-13,2026 FIFA World Cup qualification,Norway,4-1,4,1,Estonia,"Oslo, Norway",Norway
+2025-11-13,2026 FIFA World Cup qualification,United Arab Emirates,1-1,1,1,Iraq,"Abu Dhabi, United Arab Emirates",Draw
+2025-11-13,2026 FIFA World Cup qualification,England,2-0,2,0,Serbia,"London, England",England
+2025-11-13,2026 FIFA World Cup qualification,Republic of Ireland,2-0,2,0,Portugal,"Dublin, Ireland",Republic of Ireland
+2025-11-13,2026 FIFA World Cup qualification,France,4-0,4,0,Ukraine,"Paris, France",France
+2025-11-13,2026 FIFA World Cup qualification,Guatemala,2-3,2,3,Panama,"Guatemala City, Guatemala",Panama
+2025-11-14,2026 FIFA World Cup qualification,Luxembourg,0-2,0,2,Germany,"Luxembourg City, Luxembourg",Germany
+2025-11-14,2026 FIFA World Cup qualification,Croatia,3-1,3,1,Faroe Islands,"Rijeka, Croatia",Croatia
+2025-11-14,2026 FIFA World Cup qualification,Poland,1-1,1,1,Netherlands,"Warsaw, Poland",Draw
+2025-11-15,2026 FIFA World Cup qualification,Georgia,0-4,0,4,Spain,"Tbilisi, Georgia",Spain
+2025-11-15,2026 FIFA World Cup qualification,Kazakhstan,1-1,1,1,Belgium,"Astana, Kazakhstan",Draw
+2025-11-15,2026 FIFA World Cup qualification,Bosnia and Herzegovina,3-1,3,1,Romania,"Zenica, Bosnia and Herzegovina",Bosnia and Herzegovina
+2025-11-15,2026 FIFA World Cup qualification,Cyprus,0-2,0,2,Austria,"Limassol, Cyprus",Austria
+2025-11-15,2026 FIFA World Cup qualification,Greece,3-2,3,2,Scotland,"Karaiskakis Stadium, Piraeus",Greece
+2025-11-15,2026 FIFA World Cup qualification,Switzerland,4-1,4,1,Sweden,"Geneva, Switzerland",Switzerland
+2025-11-15,2026 FIFA World Cup qualification,Turkey,2-0,2,0,Bulgaria,"Bursa, Turkey",Turkey
+2025-11-16,2026 FIFA World Cup qualification,Italy,1-4,1,4,Norway,"Milan, Italy",Norway
+2025-11-16,2026 FIFA World Cup qualification,Albania,0-2,0,2,England,"Tirana, Albania",England
+2025-11-16,2026 FIFA World Cup qualification,Portugal,9-1,9,1,Armenia,"Porto, Portugal",Portugal
+2025-11-16,2026 FIFA World Cup qualification,Azerbaijan,1-3,1,3,France,"Baku, Azerbaijan",France
+2025-11-17,2026 FIFA World Cup qualification,Germany,6-0,6,0,Slovakia,"Leipzig, Germany",Germany
+2025-11-17,2026 FIFA World Cup qualification,Czech Republic,6-0,6,0,Gibraltar,"Olomouc, Czech Republic",Czech Republic
+2025-11-17,2026 FIFA World Cup qualification,Montenegro,2-3,2,3,Croatia,"Podgorica, Montenegro",Croatia
+2025-11-17,2026 FIFA World Cup qualification,Netherlands,4-0,4,0,Lithuania,"Amsterdam, Netherlands",Netherlands
+2025-11-18,2026 FIFA World Cup qualification,Haiti,2-0,2,0,Nicaragua,"Ergilio Hato Stadium, Willemstad",Haiti
+2025-11-18,2026 FIFA World Cup qualification,Iraq,2-1,2,1,United Arab Emirates,"Basra, Iraq",Iraq
+2025-11-18,2026 FIFA World Cup qualification,Jamaica,0-0,0,0,Curacao,"Kingston, Jamaica",Draw
+2025-11-18,2026 FIFA World Cup qualification,Belgium,7-0,7,0,Liechtenstein,"Liege, Belgium",Belgium
+2025-11-18,2026 FIFA World Cup qualification,Spain,2-2,2,2,Turkey,"Seville, Spain",Draw
+2025-11-18,2026 FIFA World Cup qualification,Austria,1-1,1,1,Bosnia and Herzegovina,"Vienna, Austria",Draw
+2025-11-18,2026 FIFA World Cup qualification,Kosovo,1-1,1,1,Switzerland,"Pristina, Kosovo",Draw
+2025-11-18,2026 FIFA World Cup qualification,Panama,3-0,3,0,El Salvador,"Panama City, Panama",Panama
+2025-11-18,2026 FIFA World Cup qualification,Scotland,4-2,4,2,Denmark,"Hampden Park, Glasgow",Scotland
+2025-11-18,2026 FIFA World Cup qualification,Sweden,1-1,1,1,Slovenia,"Solna, Sweden",Draw
+2026-03-26,2026 FIFA World Cup qualification play-offs,Ukraine,1-3,1,3,Sweden,"Valencia, Spain",Sweden
+2026-03-26,2026 FIFA World Cup qualification play-offs,Czech Republic,2-2,2,2,Republic of Ireland,"Prague, Czech Republic",Draw
+2026-03-26,2026 FIFA World Cup qualification play-offs,Turkey,1-0,1,0,Romania,"Istanbul, Turkey",Turkey
+2026-03-26,2026 FIFA World Cup qualification play-offs,Wales,1-1,1,1,Bosnia and Herzegovina,"Cardiff, Wales",Draw
+2026-03-31,2027 FIFA World Cup qualification play-offs,Iraq,2-1,2,1,Bolivia,"Monterrey, Mexico",Iraq
+2026-03-31,2028 FIFA World Cup qualification play-offs,Sweden,3-2,3,2,Poland,"Solna, Sweden",Sweden
+2026-03-31,2026 FIFA World Cup qualification play-offs,Bosnia and Herzegovina,1-1,1,1,Italy,"Zenica, Bosnia and Herzegovina",Draw
+2026-03-31,2026 FIFA World Cup qualification play-offs,Czech Republic,2-2,2,2,Denmark,"Prague, Czech Republic",Draw
+2026-03-31,2026 FIFA World Cup qualification play-offs,Kosovo,0-1,0,1,Turkey,"Pristina, Kosovo",Turkey

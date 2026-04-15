@@ -1,0 +1,1352 @@
+{
+  "groups": {
+    "group_a": {
+      "fixtures": {
+        "Wednesday, June 11, 2026": [
+          {
+            "match": "Mexico vs South Africa",
+            "time_pt": "12:00 PM",
+            "venue": "Estadio Azteca, Mexico City"
+          },
+          {
+            "match": "South Korea vs Czech Republic",
+            "time_pt": "7:00 PM",
+            "venue": "Estadio Akron, Guadalajara"
+          }
+        ],
+        "Thursday, June 18, 2026": [
+          {
+            "match": "Czech Republic vs South Africa",
+            "time_pt": "9:00 AM",
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+          },
+          {
+            "match": "Mexico vs South Korea",
+            "time_pt": "6:00 PM",
+            "venue": "Estadio Akron, Guadalajara"
+          }
+        ],
+        "Wednesday, June 24, 2026": [
+          {
+            "match": "South Africa vs South Korea",
+            "time_pt": "6:00 PM",
+            "venue": "Estadio BBVA, Monterrey"
+          },
+          {
+            "match": "Czech Republic vs Mexico",
+            "time_pt": "6:00 PM",
+            "venue": "Estadio Azteca, Mexico City"
+          }
+        ]
+      },
+      "teams": [
+        "Czech Republic",
+        "Mexico",
+        "South Africa",
+        "South Korea"
+      ],
+      "czech republic": {
+        "flag": "./flags/czech_republic.svg",
+        "fifa_ranking": 38,
+        "fifa_points": 1513.74,
+        "head_coach": "Miroslav Koubek",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 10,
+          "w": 5,
+          "l": 2,
+          "d": 3,
+          "gf": 22,
+          "ga": 12,
+          "gd": 10
+        }
+      },
+      "mexico": {
+        "flag": "./flags/mexico.svg",
+        "fifa_ranking": 15,
+        "fifa_points": 1681.03,
+        "head_coach": "Javier Aguirre",
+        "fact": "tbd",
+        "confederation": "CONCACAF",
+        "qualification": {}
+      },
+      "south africa": {
+        "flag": "./flags/south_africa.svg",
+        "fifa_ranking": 59,
+        "fifa_points": 1429.73,
+        "head_coach": "Hugo Broos",
+        "fact": "tbd",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 6,
+          "w": 4,
+          "l": 1,
+          "d": 1,
+          "gf": 10,
+          "ga": 5,
+          "gd": 5
+        }
+      },
+      "south korea": {
+        "flag": "./flags/south_korea.svg",
+        "fifa_ranking": 25,
+        "fifa_points": 1588.67,
+        "head_coach": "Hong Myung-bo",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 16,
+          "w": 11,
+          "l": 0,
+          "d": 5,
+          "gf": 40,
+          "ga": 8,
+          "gd": 32
+        }
+      }
+    },
+    "group_b": {
+      "fixtures": {
+        "Friday, June 12, 2026": [
+          {
+            "match": "Canada vs Bosnia and Herzegovina",
+            "time_pt": "12:00 PM",
+            "venue": "BMO Field, Toronto"
+          }
+        ],
+        "Saturday, June 13, 2026": [
+          {
+            "match": "Qatar vs Switzerland",
+            "time_pt": "12:00 PM",
+            "venue": "Levi's Stadium, Santa Clara (San Francisco Bay Area)"
+          }
+        ],
+        "Thursday, June 18, 2026": [
+          {
+            "match": "Switzerland vs Bosnia and Herzegovina",
+            "time_pt": "12:00 PM",
+            "venue": "SoFi Stadium, Inglewood (Los Angeles)"
+          },
+          {
+            "match": "Canada vs Qatar",
+            "time_pt": "3:00 PM",
+            "venue": "BC Place, Vancouver"
+          }
+        ],
+        "Wednesday, June 24, 2026": [
+          {
+            "match": "Bosnia and Herzegovina vs Qatar",
+            "time_pt": "12:00 PM",
+            "venue": "Lumen Field, Seattle"
+          },
+          {
+            "match": "Switzerland vs Canada",
+            "time_pt": "12:00 PM",
+            "venue": "BC Place, Vancouver"
+          }
+        ]
+      },
+      "teams": [
+        "Bosnia and Herzegovina",
+        "Canada",
+        "Qatar",
+        "Switzerland"
+      ],
+      "bosnia and herzegovina": {
+        "flag": "./flags/bosnia_and_herzegovina.svg",
+        "fifa_ranking": 63,
+        "fifa_points": 1398.23,
+        "head_coach": "Sergej Barbarez",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 10,
+          "w": 5,
+          "l": 1,
+          "d": 4,
+          "gf": 19,
+          "ga": 9,
+          "gd": 10
+        }
+      },
+      "canada": {
+        "flag": "./flags/canada.svg",
+        "fifa_ranking": 30,
+        "fifa_points": 1556.48,
+        "head_coach": "Jesse Marsch",
+        "fact": "tbd",
+        "confederation": "CONCACAF",
+        "qualification": {}
+      },
+      "qatar": {
+        "flag": "./flags/qatar.svg",
+        "fifa_ranking": 55,
+        "fifa_points": 1454.96,
+        "head_coach": "Julen Lopetegui",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 14,
+          "w": 7,
+          "l": 5,
+          "d": 2,
+          "gf": 24,
+          "ga": 26,
+          "gd": -2
+        }
+      },
+      "switzerland": {
+        "flag": "./flags/switzerland.svg",
+        "fifa_ranking": 19,
+        "fifa_points": 1649.4,
+        "head_coach": "Murat Yakin",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 4,
+          "l": 0,
+          "d": 2,
+          "gf": 14,
+          "ga": 2,
+          "gd": 12
+        }
+      }
+    },
+    "group_c": {
+      "fixtures": {
+        "Friday, June 13, 2026": [
+          {
+            "match": "Brazil vs Morocco",
+            "time_pt": "3:00 PM",
+            "venue": "MetLife Stadium, East Rutherford (New York/New Jersey)"
+          },
+          {
+            "match": "Haiti vs Scotland",
+            "time_pt": "6:00 PM",
+            "venue": "Gillette Stadium, Foxborough (Boston)"
+          }
+        ],
+        "Thursday, June 19, 2026": [
+          {
+            "match": "Scotland vs Morocco",
+            "time_pt": "3:00 PM",
+            "venue": "Gillette Stadium, Foxborough (Boston)"
+          },
+          {
+            "match": "Brazil vs Haiti",
+            "time_pt": "6:00 PM",
+            "venue": "Lincoln Financial Field, Philadelphia"
+          }
+        ],
+        "Wednesday, June 24, 2026": [
+          {
+            "match": "Morocco vs Haiti",
+            "time_pt": "3:00 PM",
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+          },
+          {
+            "match": "Scotland vs Brazil",
+            "time_pt": "3:00 PM",
+            "venue": "Hard Rock Stadium, Miami Gardens (Miami)"
+          }
+        ]
+      },
+      "teams": [
+        "Brazil",
+        "Haiti",
+        "Morocco",
+        "Scotland"
+      ],
+      "brazil": {
+        "flag": "./flags/brazil.svg",
+        "fifa_ranking": 6,
+        "fifa_points": 1761.16,
+        "head_coach": "Carlo Ancelotti",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 18,
+          "w": 8,
+          "l": 6,
+          "d": 4,
+          "gf": 24,
+          "ga": 17,
+          "gd": 7
+        }
+      },
+      "haiti": {
+        "flag": "./flags/haiti.svg",
+        "fifa_ranking": 83,
+        "fifa_points": 1291.0,
+        "head_coach": "S\u00e9bastien Mign\u00e9",
+        "fact": "tbd",
+        "confederation": "CONCACAF",
+        "qualification": {
+          "p": 10,
+          "w": 6,
+          "l": 2,
+          "d": 2,
+          "gf": 20,
+          "ga": 13,
+          "gd": 7
+        }
+      },
+      "morocco": {
+        "flag": "./flags/morocco.svg",
+        "fifa_ranking": 8,
+        "fifa_points": 1756.8,
+        "head_coach": "Walid Regragui",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 8,
+          "w": 8,
+          "l": 0,
+          "d": 0,
+          "gf": 22,
+          "ga": 2,
+          "gd": 20
+        }
+      },
+      "scotland": {
+        "flag": "./flags/scotland.svg",
+        "fifa_ranking": 43,
+        "fifa_points": 1498.35,
+        "head_coach": "Steve Clarke",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 4,
+          "l": 1,
+          "d": 1,
+          "gf": 13,
+          "ga": 7,
+          "gd": 6
+        }
+      }
+    },
+    "group_d": {
+      "fixtures": {
+        "Friday, June 12, 2026": [
+          {
+            "match": "United States vs Paraguay",
+            "time_pt": "6:00 PM",
+            "venue": "SoFi Stadium, Inglewood (Los Angeles)"
+          }
+        ],
+        "Saturday, June 13, 2026": [
+          {
+            "match": "Australia vs Turkey",
+            "time_pt": "9:00 PM",
+            "venue": "BC Place, Vancouver"
+          }
+        ],
+        "Thursday, June 19, 2026": [
+          {
+            "match": "United States vs Australia",
+            "time_pt": "12:00 PM",
+            "venue": "Lumen Field, Seattle"
+          },
+          {
+            "match": "Turkey vs Paraguay",
+            "time_pt": "9:00 PM",
+            "venue": "Levi's Stadium, Santa Clara (San Francisco Bay Area)"
+          }
+        ],
+        "Wednesday, June 25, 2026": [
+          {
+            "match": "Paraguay vs Australia",
+            "time_pt": "7:00 PM",
+            "venue": "Levi's Stadium, Santa Clara (San Francisco Bay Area)"
+          },
+          {
+            "match": "Turkey vs United States",
+            "time_pt": "7:00 PM",
+            "venue": "SoFi Stadium, Inglewood (Los Angeles)"
+          }
+        ]
+      },
+      "teams": [
+        "Australia",
+        "Paraguay",
+        "Turkey",
+        "United States"
+      ],
+      "australia": {
+        "flag": "./flags/australia.svg",
+        "fifa_ranking": 27,
+        "fifa_points": 1580.68,
+        "head_coach": "Tony Popovic",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 16,
+          "w": 11,
+          "l": 1,
+          "d": 4,
+          "gf": 38,
+          "ga": 7,
+          "gd": 31
+        }
+      },
+      "paraguay": {
+        "flag": "./flags/paraguay.svg",
+        "fifa_ranking": 41,
+        "fifa_points": 1503.51,
+        "head_coach": "Gustavo Alfaro",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 20,
+          "w": 7,
+          "l": 4,
+          "d": 9,
+          "gf": 14,
+          "ga": 10,
+          "gd": 4
+        }
+      },
+      "turkey": {
+        "flag": "./flags/turkey.svg",
+        "fifa_ranking": 22,
+        "fifa_points": 1599.03,
+        "head_coach": "Vincenzo Montella",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 6,
+          "l": 1,
+          "d": 1,
+          "gf": 19,
+          "ga": 12,
+          "gd": 7
+        }
+      },
+      "united states": {
+        "flag": "./flags/united_states.svg",
+        "fifa_ranking": 16,
+        "fifa_points": 1673.13,
+        "head_coach": "Mauricio Pochettino",
+        "fact": "tbd",
+        "confederation": "CONCACAF",
+        "qualification": {}
+      }
+    },
+    "group_e": {
+      "fixtures": {
+        "Sunday, June 14, 2026": [
+          {
+            "match": "Germany vs Curacao",
+            "time_pt": "10:00 AM",
+            "venue": "NRG Stadium, Houston"
+          },
+          {
+            "match": "Ivory Coast vs Ecuador",
+            "time_pt": "4:00 PM",
+            "venue": "Lincoln Financial Field, Philadelphia"
+          }
+        ],
+        "Saturday, June 20, 2026": [
+          {
+            "match": "Germany vs Ivory Coast",
+            "time_pt": "1:00 PM",
+            "venue": "BMO Field, Toronto"
+          },
+          {
+            "match": "Ecuador vs Curacao",
+            "time_pt": "5:00 PM",
+            "venue": "Arrowhead Stadium, Kansas City"
+          }
+        ],
+        "Thursday, June 25, 2026": [
+          {
+            "match": "Curacao vs Ivory Coast",
+            "time_pt": "1:00 PM",
+            "venue": "Lincoln Financial Field, Philadelphia"
+          },
+          {
+            "match": "Ecuador vs Germany",
+            "time_pt": "1:00 PM",
+            "venue": "MetLife Stadium, East Rutherford (New York/New Jersey)"
+          }
+        ]
+      },
+      "teams": [
+        "Curacao",
+        "Ecuador",
+        "Germany",
+        "Ivory Coast"
+      ],
+      "curacao": {
+        "flag": "./flags/curacao.svg",
+        "fifa_ranking": 82,
+        "fifa_points": 1294.0,
+        "head_coach": "Dick Advocaat",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CONCACAF",
+        "qualification": {
+          "p": 10,
+          "w": 7,
+          "l": 0,
+          "d": 3,
+          "gf": 28,
+          "ga": 5,
+          "gd": 23
+        }
+      },
+      "ecuador": {
+        "flag": "./flags/ecuador.svg",
+        "fifa_ranking": 23,
+        "fifa_points": 1594.79,
+        "head_coach": "Sebasti\u00e1n Beccacece",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 19,
+          "w": 8,
+          "l": 2,
+          "d": 9,
+          "gf": 14,
+          "ga": 5,
+          "gd": 9
+        }
+      },
+      "germany": {
+        "flag": "./flags/germany.svg",
+        "fifa_ranking": 10,
+        "fifa_points": 1730.37,
+        "head_coach": "Julian Nagelsmann",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 5,
+          "l": 1,
+          "d": 0,
+          "gf": 16,
+          "ga": 3,
+          "gd": 13
+        }
+      },
+      "ivory coast": {
+        "flag": "./flags/ivory_coast.svg",
+        "fifa_ranking": 34,
+        "fifa_points": 1532.97,
+        "head_coach": "Emerse Fa\u00e9",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 10,
+          "w": 8,
+          "l": 0,
+          "d": 2,
+          "gf": 25,
+          "ga": 0,
+          "gd": 25
+        }
+      }
+    },
+    "group_f": {
+      "fixtures": {
+        "Sunday, June 14, 2026": [
+          {
+            "match": "Netherlands vs Japan",
+            "time_pt": "1:00 PM",
+            "venue": "AT&T Stadium, Arlington (Dallas)"
+          },
+          {
+            "match": "Sweden vs Tunisia",
+            "time_pt": "7:00 PM",
+            "venue": "Estadio BBVA, Monterrey"
+          }
+        ],
+        "Saturday, June 20, 2026": [
+          {
+            "match": "Netherlands vs Sweden",
+            "time_pt": "10:00 AM",
+            "venue": "NRG Stadium, Houston"
+          },
+          {
+            "match": "Tunisia vs Japan",
+            "time_pt": "9:00 PM",
+            "venue": "Estadio BBVA, Monterrey"
+          }
+        ],
+        "Thursday, June 25, 2026": [
+          {
+            "match": "Japan vs Sweden",
+            "time_pt": "4:00 PM",
+            "venue": "AT&T Stadium, Arlington (Dallas)"
+          },
+          {
+            "match": "Tunisia vs Netherlands",
+            "time_pt": "4:00 PM",
+            "venue": "Arrowhead Stadium, Kansas City"
+          }
+        ]
+      },
+      "teams": [
+        "Japan",
+        "Netherlands",
+        "Sweden",
+        "Tunisia"
+      ],
+      "japan": {
+        "flag": "./flags/japan.svg",
+        "fifa_ranking": 18,
+        "fifa_points": 1660.43,
+        "head_coach": "Hajime Moriyasu",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 15,
+          "w": 12,
+          "l": 1,
+          "d": 2,
+          "gf": 49,
+          "ga": 3,
+          "gd": 46
+        }
+      },
+      "netherlands": {
+        "flag": "./flags/netherlands.svg",
+        "fifa_ranking": 7,
+        "fifa_points": 1757.87,
+        "head_coach": "Ronald Koeman",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 6,
+          "l": 0,
+          "d": 2,
+          "gf": 27,
+          "ga": 4,
+          "gd": 23
+        }
+      },
+      "sweden": {
+        "flag": "./flags/sweden.svg",
+        "fifa_ranking": 37,
+        "fifa_points": 1514.77,
+        "head_coach": "Graham Potter",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 2,
+          "l": 4,
+          "d": 2,
+          "gf": 10,
+          "ga": 15,
+          "gd": -5
+        }
+      },
+      "tunisia": {
+        "flag": "./flags/tunisia.svg",
+        "fifa_ranking": 44,
+        "fifa_points": 1483.05,
+        "head_coach": "Sami Trabelsi",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 10,
+          "w": 9,
+          "l": 0,
+          "d": 1,
+          "gf": 22,
+          "ga": 0,
+          "gd": 22
+        }
+      }
+    },
+    "group_g": {
+      "fixtures": {
+        "Sunday, June 15, 2026": [
+          {
+            "match": "Belgium vs Egypt",
+            "time_pt": "12:00 PM",
+            "venue": "Lumen Field, Seattle"
+          },
+          {
+            "match": "Iran vs New Zealand",
+            "time_pt": "6:00 PM",
+            "venue": "SoFi Stadium, Inglewood (Los Angeles)"
+          }
+        ],
+        "Saturday, June 21, 2026": [
+          {
+            "match": "Belgium vs Iran",
+            "time_pt": "12:00 PM",
+            "venue": "SoFi Stadium, Inglewood (Los Angeles)"
+          },
+          {
+            "match": "New Zealand vs Egypt",
+            "time_pt": "6:00 PM",
+            "venue": "BC Place, Vancouver"
+          }
+        ],
+        "Friday, June 26, 2026": [
+          {
+            "match": "Egypt vs Iran",
+            "time_pt": "8:00 PM",
+            "venue": "Lumen Field, Seattle"
+          },
+          {
+            "match": "New Zealand vs Belgium",
+            "time_pt": "8:00 PM",
+            "venue": "BC Place, Vancouver"
+          }
+        ]
+      },
+      "teams": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand"
+      ],
+      "belgium": {
+        "flag": "./flags/belgium.svg",
+        "fifa_ranking": 9,
+        "fifa_points": 1734.72,
+        "head_coach": "Rudi Garcia",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 5,
+          "l": 0,
+          "d": 3,
+          "gf": 29,
+          "ga": 7,
+          "gd": 22
+        }
+      },
+      "egypt": {
+        "flag": "./flags/egypt.svg",
+        "fifa_ranking": 29,
+        "fifa_points": 1563.24,
+        "head_coach": "Hossam Hassan",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 10,
+          "w": 8,
+          "l": 0,
+          "d": 2,
+          "gf": 20,
+          "ga": 2,
+          "gd": 18
+        }
+      },
+      "iran": {
+        "flag": "./flags/iran.svg",
+        "fifa_ranking": 20,
+        "fifa_points": 1615.3,
+        "head_coach": "Amir Ghalenoei",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 16,
+          "w": 11,
+          "l": 1,
+          "d": 4,
+          "gf": 35,
+          "ga": 12,
+          "gd": 23
+        }
+      },
+      "new zealand": {
+        "flag": "./flags/new_zealand.svg",
+        "fifa_ranking": 85,
+        "fifa_points": 1281.0,
+        "head_coach": "Darren Bazeley",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "OFC (Oceania Football Confederation)",
+        "qualification": {
+          "p": 5,
+          "w": 5,
+          "l": 0,
+          "d": 0,
+          "gf": 29,
+          "ga": 1,
+          "gd": 28
+        }
+      }
+    },
+    "group_h": {
+      "fixtures": {
+        "Sunday, June 15, 2026": [
+          {
+            "match": "Spain vs Cape Verde",
+            "time_pt": "10:00 AM",
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+          },
+          {
+            "match": "Saudi Arabia vs Uruguay",
+            "time_pt": "3:00 PM",
+            "venue": "Hard Rock Stadium, Miami Gardens (Miami)"
+          }
+        ],
+        "Saturday, June 21, 2026": [
+          {
+            "match": "Spain vs Saudi Arabia",
+            "time_pt": "9:00 AM",
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+          },
+          {
+            "match": "Uruguay vs Cape Verde",
+            "time_pt": "3:00 PM",
+            "venue": "Hard Rock Stadium, Miami Gardens (Miami)"
+          }
+        ],
+        "Friday, June 26, 2026": [
+          {
+            "match": "Cape Verde vs Saudi Arabia",
+            "time_pt": "5:00 PM",
+            "venue": "NRG Stadium, Houston"
+          },
+          {
+            "match": "Uruguay vs Spain",
+            "time_pt": "5:00 PM",
+            "venue": "Estadio Akron, Guadalajara"
+          }
+        ]
+      },
+      "teams": [
+        "Cape Verde",
+        "Saudi Arabia",
+        "Spain",
+        "Uruguay"
+      ],
+      "cape verde": {
+        "flag": "./flags/cape_verde.svg",
+        "fifa_ranking": 68,
+        "fifa_points": 1371.13,
+        "head_coach": "Bubista",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 8,
+          "w": 6,
+          "l": 0,
+          "d": 2,
+          "gf": 14,
+          "ga": 4,
+          "gd": 10
+        }
+      },
+      "saudi arabia": {
+        "flag": "./flags/saudi_arabia.svg",
+        "fifa_ranking": 61,
+        "fifa_points": 1421.43,
+        "head_coach": "Herv\u00e9 Renard",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 18,
+          "w": 8,
+          "l": 4,
+          "d": 6,
+          "gf": 22,
+          "ga": 13,
+          "gd": 9
+        }
+      },
+      "spain": {
+        "flag": "./flags/spain.svg",
+        "fifa_ranking": 2,
+        "fifa_points": 1876.4,
+        "head_coach": "Luis de la Fuente",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 5,
+          "l": 0,
+          "d": 1,
+          "gf": 21,
+          "ga": 2,
+          "gd": 19
+        }
+      },
+      "uruguay": {
+        "flag": "./flags/uruguay.svg",
+        "fifa_ranking": 17,
+        "fifa_points": 1673.07,
+        "head_coach": "Marcelo Bielsa",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 19,
+          "w": 7,
+          "l": 4,
+          "d": 8,
+          "gf": 22,
+          "ga": 12,
+          "gd": 10
+        }
+      }
+    },
+    "group_i": {
+      "fixtures": {
+        "Tuesday, June 16, 2026": [
+          {
+            "match": "France vs Senegal",
+            "time_pt": "12:00 PM",
+            "venue": "MetLife Stadium, East Rutherford (New York/New Jersey)"
+          },
+          {
+            "match": "Iraq vs Norway",
+            "time_pt": "3:00 PM",
+            "venue": "Gillette Stadium, Foxborough (Boston)"
+          }
+        ],
+        "Monday, June 22, 2026": [
+          {
+            "match": "France vs Iraq",
+            "time_pt": "2:00 PM",
+            "venue": "Lincoln Financial Field, Philadelphia"
+          },
+          {
+            "match": "Norway vs Senegal",
+            "time_pt": "5:00 PM",
+            "venue": "MetLife Stadium, East Rutherford (New York/New Jersey)"
+          }
+        ],
+        "Friday, June 26, 2026": [
+          {
+            "match": "Norway vs France",
+            "time_pt": "12:00 PM",
+            "venue": "Gillette Stadium, Foxborough (Boston)"
+          },
+          {
+            "match": "Senegal vs Iraq",
+            "time_pt": "12:00 PM",
+            "venue": "BMO Field, Toronto"
+          }
+        ]
+      },
+      "teams": [
+        "France",
+        "Iraq",
+        "Norway",
+        "Senegal"
+      ],
+      "france": {
+        "flag": "./flags/france.svg",
+        "fifa_ranking": 1,
+        "fifa_points": 1877.32,
+        "head_coach": "Didier Deschamps",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 5,
+          "l": 0,
+          "d": 1,
+          "gf": 16,
+          "ga": 4,
+          "gd": 12
+        }
+      },
+      "iraq": {
+        "flag": "./flags/iraq.svg",
+        "fifa_ranking": 57,
+        "fifa_points": 1447.13,
+        "head_coach": "Graham Arnold",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 21,
+          "w": 13,
+          "l": 3,
+          "d": 5,
+          "gf": 32,
+          "ga": 14,
+          "gd": 18
+        }
+      },
+      "norway": {
+        "flag": "./flags/norway.svg",
+        "fifa_ranking": 31,
+        "fifa_points": 1550.95,
+        "head_coach": "St\u00e5le Solbakken",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 8,
+          "l": 0,
+          "d": 0,
+          "gf": 37,
+          "ga": 5,
+          "gd": 32
+        }
+      },
+      "senegal": {
+        "flag": "./flags/senegal.svg",
+        "fifa_ranking": 13,
+        "fifa_points": 1691.97,
+        "head_coach": "Pape Thiaw",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 6,
+          "w": 3,
+          "l": 0,
+          "d": 3,
+          "gf": 8,
+          "ga": 1,
+          "gd": 7
+        }
+      }
+    },
+    "group_j": {
+      "fixtures": {
+        "Tuesday, June 16, 2026": [
+          {
+            "match": "Argentina vs Algeria",
+            "time_pt": "6:00 PM",
+            "venue": "Arrowhead Stadium, Kansas City"
+          },
+          {
+            "match": "Austria vs Jordan",
+            "time_pt": "9:00 PM",
+            "venue": "Levi's Stadium, Santa Clara (San Francisco Bay Area)"
+          }
+        ],
+        "Monday, June 22, 2026": [
+          {
+            "match": "Argentina vs Austria",
+            "time_pt": "10:00 AM",
+            "venue": "AT&T Stadium, Arlington (Dallas)"
+          },
+          {
+            "match": "Jordan vs Algeria",
+            "time_pt": "8:00 PM",
+            "venue": "Levi's Stadium, Santa Clara (San Francisco Bay Area)"
+          }
+        ],
+        "Saturday, June 27, 2026": [
+          {
+            "match": "Algeria vs Austria",
+            "time_pt": "7:00 PM",
+            "venue": "Arrowhead Stadium, Kansas City"
+          },
+          {
+            "match": "Jordan vs Argentina",
+            "time_pt": "7:00 PM",
+            "venue": "AT&T Stadium, Arlington (Dallas)"
+          }
+        ]
+      },
+      "teams": [
+        "Algeria",
+        "Argentina",
+        "Austria",
+        "Jordan"
+      ],
+      "algeria": {
+        "flag": "./flags/algeria.svg",
+        "fifa_ranking": 28,
+        "fifa_points": 1564.26,
+        "head_coach": "Vladimir Petkovi\u0192\u00e1",
+        "fact": "tbd",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 10,
+          "w": 8,
+          "l": 1,
+          "d": 1,
+          "gf": 24,
+          "ga": 8,
+          "gd": 16
+        }
+      },
+      "argentina": {
+        "flag": "./flags/argentina.svg",
+        "fifa_ranking": 3,
+        "fifa_points": 1874.82,
+        "head_coach": "Lionel Scaloni",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 18,
+          "w": 12,
+          "l": 4,
+          "d": 2,
+          "gf": 31,
+          "ga": 10,
+          "gd": 21
+        }
+      },
+      "austria": {
+        "flag": "./flags/austria.svg",
+        "fifa_ranking": 24,
+        "fifa_points": 1593.45,
+        "head_coach": "Ralf Rangnick",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 6,
+          "l": 1,
+          "d": 1,
+          "gf": 22,
+          "ga": 4,
+          "gd": 18
+        }
+      },
+      "jordan": {
+        "flag": "./flags/jordan.svg",
+        "fifa_ranking": 64,
+        "fifa_points": 1391.45,
+        "head_coach": "Jamal Sellami",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 16,
+          "w": 8,
+          "l": 3,
+          "d": 5,
+          "gf": 32,
+          "ga": 12,
+          "gd": 20
+        }
+      }
+    },
+    "group_k": {
+      "fixtures": {
+        "Wednesday, June 17, 2026": [
+          {
+            "match": "Portugal vs DR Congo",
+            "time_pt": "10:00 AM",
+            "venue": "NRG Stadium, Houston"
+          },
+          {
+            "match": "Uzbekistan vs Colombia",
+            "time_pt": "7:00 PM",
+            "venue": "Estadio Azteca, Mexico City"
+          }
+        ],
+        "Tuesday, June 23, 2026": [
+          {
+            "match": "Portugal vs Uzbekistan",
+            "time_pt": "10:00 AM",
+            "venue": "NRG Stadium, Houston"
+          },
+          {
+            "match": "Colombia vs DR Congo",
+            "time_pt": "7:00 PM",
+            "venue": "Estadio Akron, Guadalajara"
+          }
+        ],
+        "Saturday, June 27, 2026": [
+          {
+            "match": "Colombia vs Portugal",
+            "time_pt": "4:30 PM",
+            "venue": "Hard Rock Stadium, Miami Gardens (Miami)"
+          },
+          {
+            "match": "DR Congo vs Uzbekistan",
+            "time_pt": "4:30 PM",
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+          }
+        ]
+      },
+      "teams": [
+        "Colombia",
+        "DR Congo",
+        "Portugal",
+        "Uzbekistan"
+      ],
+      "colombia": {
+        "flag": "./flags/colombia.svg",
+        "fifa_ranking": 12,
+        "fifa_points": 1693.09,
+        "head_coach": "N\u00e9stor Lorenzo",
+        "fact": "tbd",
+        "confederation": "CONMEBOL",
+        "qualification": {
+          "p": 18,
+          "w": 7,
+          "l": 4,
+          "d": 7,
+          "gf": 28,
+          "ga": 18,
+          "gd": 10
+        }
+      },
+      "dr congo": {
+        "flag": "./flags/dr_congo.svg",
+        "fifa_ranking": 46,
+        "fifa_points": 1479.64,
+        "head_coach": "S\u00e9bastien Desabre",
+        "fact": "tbd",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 6,
+          "w": 4,
+          "l": 1,
+          "d": 1,
+          "gf": 7,
+          "ga": 2,
+          "gd": 5
+        }
+      },
+      "portugal": {
+        "flag": "./flags/portugal.svg",
+        "fifa_ranking": 5,
+        "fifa_points": 1763.83,
+        "head_coach": "Roberto Mart\u00ednez",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 6,
+          "w": 4,
+          "l": 1,
+          "d": 1,
+          "gf": 20,
+          "ga": 7,
+          "gd": 13
+        }
+      },
+      "uzbekistan": {
+        "flag": "./flags/uzbekistan.svg",
+        "fifa_ranking": 49,
+        "fifa_points": 1469.4,
+        "head_coach": "Fabio Cannavaro",
+        "fact": "tbd",
+        "confederation": "AFC",
+        "qualification": {
+          "p": 16,
+          "w": 10,
+          "l": 1,
+          "d": 5,
+          "gf": 27,
+          "ga": 11,
+          "gd": 16
+        }
+      }
+    },
+    "group_l": {
+      "fixtures": {
+        "Wednesday, June 17, 2026": [
+          {
+            "match": "England vs Croatia",
+            "time_pt": "1:00 PM",
+            "venue": "AT&T Stadium, Arlington (Dallas)"
+          },
+          {
+            "match": "Ghana vs Panama",
+            "time_pt": "4:00 PM",
+            "venue": "BMO Field, Toronto"
+          }
+        ],
+        "Tuesday, June 23, 2026": [
+          {
+            "match": "England vs Ghana",
+            "time_pt": "1:00 PM",
+            "venue": "Gillette Stadium, Foxborough (Boston)"
+          },
+          {
+            "match": "Panama vs Croatia",
+            "time_pt": "4:00 PM",
+            "venue": "BMO Field, Toronto"
+          }
+        ],
+        "Saturday, June 27, 2026": [
+          {
+            "match": "Panama vs England",
+            "time_pt": "2:00 PM",
+            "venue": "MetLife Stadium, East Rutherford (New York/New Jersey)"
+          },
+          {
+            "match": "Croatia vs Ghana",
+            "time_pt": "2:00 PM",
+            "venue": "Lincoln Financial Field, Philadelphia"
+          }
+        ]
+      },
+      "teams": [
+        "Croatia",
+        "England",
+        "Ghana",
+        "Panama"
+      ],
+      "croatia": {
+        "flag": "./flags/croatia.svg",
+        "fifa_ranking": 11,
+        "fifa_points": 1717.06,
+        "head_coach": "Zlatko Dali\u0192\u00e1",
+        "fact": "tbd",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 7,
+          "l": 0,
+          "d": 1,
+          "gf": 26,
+          "ga": 4,
+          "gd": 22
+        }
+      },
+      "england": {
+        "flag": "./flags/england.svg",
+        "fifa_ranking": 4,
+        "fifa_points": 1825.97,
+        "head_coach": "Thomas Tuchel",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "UEFA",
+        "qualification": {
+          "p": 8,
+          "w": 8,
+          "l": 0,
+          "d": 0,
+          "gf": 22,
+          "ga": 0,
+          "gd": 22
+        }
+      },
+      "ghana": {
+        "flag": "./flags/ghana.svg",
+        "fifa_ranking": 73,
+        "fifa_points": 1346.31,
+        "head_coach": "Vacant",
+        "fact": "tbd",
+        "confederation": "CAF",
+        "qualification": {
+          "p": 10,
+          "w": 8,
+          "l": 1,
+          "d": 1,
+          "gf": 23,
+          "ga": 6,
+          "gd": 17
+        }
+      },
+      "panama": {
+        "flag": "./flags/panama.svg",
+        "fifa_ranking": 33,
+        "fifa_points": 1540.64,
+        "head_coach": "Thomas Christiansen",
+        "fact": "Undefeated in qualifying.",
+        "confederation": "CONCACAF",
+        "qualification": {
+          "p": 10,
+          "w": 7,
+          "l": 0,
+          "d": 3,
+          "gf": 19,
+          "ga": 5,
+          "gd": 14
+        }
+      }
+    }
+  }
+}

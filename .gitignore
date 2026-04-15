@@ -11,3 +11,6 @@ GEMINI.md
 __pycache__/
 *.py[cod]
 *$py.class
+
+# SYSTEM
+.DS_Store

@@ -6,3 +6,7 @@
 CLAUDE.md
 AGENTS.md
 GEMINI.md
+
+# PYTHON
+scripts/__pycache__
+scripts/__pycache__/*

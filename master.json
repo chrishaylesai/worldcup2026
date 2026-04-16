@@ -52,6 +52,7 @@
         "head_coach": "Miroslav Koubek",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "LWWDD",
         "qualification": {
           "p": 10,
           "w": 5,
@@ -69,6 +70,7 @@
         "head_coach": "Javier Aguirre",
         "fact": "tbd",
         "confederation": "CONCACAF",
+        "recentForm": "WWWDD",
         "qualification": {}
       },
       "south africa": {
@@ -78,6 +80,7 @@
         "head_coach": "Hugo Broos",
         "fact": "tbd",
         "confederation": "CAF",
+        "recentForm": "LWLDL",
         "qualification": {
           "p": 6,
           "w": 4,
@@ -95,6 +98,7 @@
         "head_coach": "Hong Myung-bo",
         "fact": "Undefeated in qualifying.",
         "confederation": "AFC",
+        "recentForm": "WWWLL",
         "qualification": {
           "p": 16,
           "w": 11,
@@ -160,6 +164,7 @@
         "head_coach": "Sergej Barbarez",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "WWDDD",
         "qualification": {
           "p": 10,
           "w": 5,
@@ -177,6 +182,7 @@
         "head_coach": "Jesse Marsch",
         "fact": "tbd",
         "confederation": "CONCACAF",
+        "recentForm": "DDWDD",
         "qualification": {}
       },
       "qatar": {
@@ -186,6 +192,7 @@
         "head_coach": "Julen Lopetegui",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "WLWLL",
         "qualification": {
           "p": 14,
           "w": 7,
@@ -203,6 +210,7 @@
         "head_coach": "Murat Yakin",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "DWDLD",
         "qualification": {
           "p": 6,
           "w": 4,
@@ -266,6 +274,7 @@
         "head_coach": "Carlo Ancelotti",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "LWDLW",
         "qualification": {
           "p": 18,
           "w": 8,
@@ -283,6 +292,7 @@
         "head_coach": "S\u00e9bastien Mign\u00e9",
         "fact": "tbd",
         "confederation": "CONCACAF",
+        "recentForm": "WLWWL",
         "qualification": {
           "p": 10,
           "w": 6,
@@ -300,6 +310,7 @@
         "head_coach": "Walid Regragui",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "DWDDW",
         "qualification": {
           "p": 8,
           "w": 8,
@@ -317,6 +328,7 @@
         "head_coach": "Steve Clarke",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "WLWLL",
         "qualification": {
           "p": 6,
           "w": 4,
@@ -382,6 +394,7 @@
         "head_coach": "Tony Popovic",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "LLLWW",
         "qualification": {
           "p": 16,
           "w": 11,
@@ -399,6 +412,7 @@
         "head_coach": "Gustavo Alfaro",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "LWWWL",
         "qualification": {
           "p": 20,
           "w": 7,
@@ -416,6 +430,7 @@
         "head_coach": "Vincenzo Montella",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "WWDWW",
         "qualification": {
           "p": 8,
           "w": 6,
@@ -433,6 +448,7 @@
         "head_coach": "Mauricio Pochettino",
         "fact": "tbd",
         "confederation": "CONCACAF",
+        "recentForm": "WWWLL",
         "qualification": {}
       }
     },
@@ -488,6 +504,7 @@
         "head_coach": "Dick Advocaat",
         "fact": "Undefeated in qualifying.",
         "confederation": "CONCACAF",
+        "recentForm": "DWDLL",
         "qualification": {
           "p": 10,
           "w": 7,
@@ -505,6 +522,7 @@
         "head_coach": "Sebasti\u00e1n Beccacece",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "WWDDD",
         "qualification": {
           "p": 19,
           "w": 8,
@@ -522,6 +540,7 @@
         "head_coach": "Julian Nagelsmann",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "WWWWW",
         "qualification": {
           "p": 6,
           "w": 5,
@@ -539,6 +558,7 @@
         "head_coach": "Emerse Fa\u00e9",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "WWLWW",
         "qualification": {
           "p": 10,
           "w": 8,
@@ -602,6 +622,7 @@
         "head_coach": "Hajime Moriyasu",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "WWWWW",
         "qualification": {
           "p": 15,
           "w": 12,
@@ -619,6 +640,7 @@
         "head_coach": "Ronald Koeman",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "WDWWD",
         "qualification": {
           "p": 8,
           "w": 6,
@@ -636,6 +658,7 @@
         "head_coach": "Graham Potter",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "LLDWW",
         "qualification": {
           "p": 8,
           "w": 2,
@@ -653,6 +676,7 @@
         "head_coach": "Sami Trabelsi",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "LDDWD",
         "qualification": {
           "p": 10,
           "w": 9,
@@ -716,6 +740,7 @@
         "head_coach": "Rudi Garcia",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "WDWWD",
         "qualification": {
           "p": 8,
           "w": 5,
@@ -733,6 +758,7 @@
         "head_coach": "Hossam Hassan",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "WWDWD",
         "qualification": {
           "p": 10,
           "w": 8,
@@ -750,6 +776,7 @@
         "head_coach": "Amir Ghalenoei",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "LLWDD",
         "qualification": {
           "p": 16,
           "w": 11,
@@ -767,6 +794,7 @@
         "head_coach": "Darren Bazeley",
         "fact": "Undefeated in qualifying.",
         "confederation": "OFC (Oceania Football Confederation)",
+        "recentForm": "LLLLW",
         "qualification": {
           "p": 5,
           "w": 5,
@@ -830,6 +858,7 @@
         "head_coach": "Bubista",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "WDWDD",
         "qualification": {
           "p": 8,
           "w": 6,
@@ -847,6 +876,7 @@
         "head_coach": "Herv\u00e9 Renard",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "DWLLL",
         "qualification": {
           "p": 18,
           "w": 8,
@@ -864,6 +894,7 @@
         "head_coach": "Luis de la Fuente",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "WWDWD",
         "qualification": {
           "p": 6,
           "w": 5,
@@ -881,6 +912,7 @@
         "head_coach": "Marcelo Bielsa",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "WDLDD",
         "qualification": {
           "p": 19,
           "w": 7,
@@ -944,6 +976,7 @@
         "head_coach": "Didier Deschamps",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "DWWWW",
         "qualification": {
           "p": 6,
           "w": 5,
@@ -961,6 +994,7 @@
         "head_coach": "Graham Arnold",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "WWLLW",
         "qualification": {
           "p": 21,
           "w": 13,
@@ -978,6 +1012,7 @@
         "head_coach": "St\u00e5le Solbakken",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "DWWLD",
         "qualification": {
           "p": 8,
           "w": 8,
@@ -995,6 +1030,7 @@
         "head_coach": "Pape Thiaw",
         "fact": "Undefeated in qualifying.",
         "confederation": "CAF",
+        "recentForm": "DWDLL",
         "qualification": {
           "p": 6,
           "w": 3,
@@ -1058,6 +1094,7 @@
         "head_coach": "Vladimir Petkovi\u0192\u00e1",
         "fact": "tbd",
         "confederation": "CAF",
+        "recentForm": "WWLWD",
         "qualification": {
           "p": 10,
           "w": 8,
@@ -1075,6 +1112,7 @@
         "head_coach": "Lionel Scaloni",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "LWWWW",
         "qualification": {
           "p": 18,
           "w": 12,
@@ -1092,6 +1130,7 @@
         "head_coach": "Ralf Rangnick",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "LWDWW",
         "qualification": {
           "p": 8,
           "w": 6,
@@ -1109,6 +1148,7 @@
         "head_coach": "Jamal Sellami",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "WWLDD",
         "qualification": {
           "p": 16,
           "w": 8,
@@ -1172,6 +1212,7 @@
         "head_coach": "N\u00e9stor Lorenzo",
         "fact": "tbd",
         "confederation": "CONMEBOL",
+        "recentForm": "WWWLL",
         "qualification": {
           "p": 18,
           "w": 7,
@@ -1189,6 +1230,7 @@
         "head_coach": "S\u00e9bastien Desabre",
         "fact": "tbd",
         "confederation": "CAF",
+        "recentForm": "WWWLL",
         "qualification": {
           "p": 6,
           "w": 4,
@@ -1206,6 +1248,7 @@
         "head_coach": "Roberto Mart\u00ednez",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "DLWDW",
         "qualification": {
           "p": 6,
           "w": 4,
@@ -1223,6 +1266,7 @@
         "head_coach": "Fabio Cannavaro",
         "fact": "tbd",
         "confederation": "AFC",
+        "recentForm": "LWDWD",
         "qualification": {
           "p": 16,
           "w": 10,
@@ -1286,6 +1330,7 @@
         "head_coach": "Zlatko Dali\u0192\u00e1",
         "fact": "tbd",
         "confederation": "UEFA",
+        "recentForm": "WWWWL",
         "qualification": {
           "p": 8,
           "w": 7,
@@ -1303,6 +1348,7 @@
         "head_coach": "Thomas Tuchel",
         "fact": "Undefeated in qualifying.",
         "confederation": "UEFA",
+        "recentForm": "WWWDL",
         "qualification": {
           "p": 8,
           "w": 8,
@@ -1320,6 +1366,7 @@
         "head_coach": "Carlos Queiroz",
         "fact": "Carlos Queiroz will coach his first game for Ghana in the opener against Panama on June 17th.",
         "confederation": "CAF",
+        "recentForm": "WLLLL",
         "qualification": {
           "p": 10,
           "w": 8,
@@ -1337,6 +1384,7 @@
         "head_coach": "Thomas Christiansen",
         "fact": "Undefeated in qualifying.",
         "confederation": "CONCACAF",
+        "recentForm": "WDLDW",
         "qualification": {
           "p": 10,
           "w": 7,
